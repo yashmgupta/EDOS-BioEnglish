@@ -1,0 +1,198 @@
+[
+  {
+    "id": "258200-01",
+    "course": "258200",
+    "title": "Hello, Biology! Introduce Yourself and Your Field",
+    "folder": "lessons/258200-01",
+    "plan": "courses/258200/weekly-plan.json"
+  },
+  {
+    "id": "258200-02",
+    "course": "258200",
+    "title": "Say It Clearly: Pronunciation for Biology Words",
+    "folder": "lessons/258200-02",
+    "plan": "courses/258200/weekly-plan.json"
+  },
+  {
+    "id": "258200-03",
+    "course": "258200",
+    "title": "Build Biology Sentences: Structure and Function",
+    "folder": "lessons/258200-03",
+    "plan": "courses/258200/weekly-plan.json"
+  },
+  {
+    "id": "258200-04",
+    "course": "258200",
+    "title": "Describe What You See: Images, Diagrams and Microscopes",
+    "folder": "lessons/258200-04",
+    "plan": "courses/258200/weekly-plan.json"
+  },
+  {
+    "id": "258200-05",
+    "course": "258200",
+    "title": "Ask, Listen and Respond in a Biology Conversation",
+    "folder": "lessons/258200-05",
+    "plan": "courses/258200/weekly-plan.json"
+  },
+  {
+    "id": "258200-06",
+    "course": "258200",
+    "title": "Tell a Biology Story in Two Minutes",
+    "folder": "lessons/258200-06",
+    "plan": "courses/258200/weekly-plan.json"
+  },
+  {
+    "id": "258200-07",
+    "course": "258200",
+    "title": "Biology Conversation Challenge: Roleplay and TA Practice",
+    "folder": "lessons/258200-07",
+    "plan": "courses/258200/weekly-plan.json"
+  },
+  {
+    "id": "258201-01",
+    "course": "258201",
+    "title": "Academic Integrity and Responsible AI in Biology English",
+    "folder": "lessons/258201-01",
+    "plan": "courses/258201/weekly-plan.json"
+  },
+  {
+    "id": "258201-02",
+    "course": "258201",
+    "title": "Meet a Scientific Paper: Article Types and IMRAD",
+    "folder": "lessons/258201-02",
+    "plan": "courses/258201/weekly-plan.json"
+  },
+  {
+    "id": "258201-03",
+    "course": "258201",
+    "title": "Search Smart: Databases, Keywords and Reliable Sources",
+    "folder": "lessons/258201-03",
+    "plan": "courses/258201/weekly-plan.json"
+  },
+  {
+    "id": "258201-04",
+    "course": "258201",
+    "title": "Read Smarter: Abstracts, Introductions and Main Ideas",
+    "folder": "lessons/258201-04",
+    "plan": "courses/258201/weekly-plan.json"
+  },
+  {
+    "id": "258201-05",
+    "course": "258201",
+    "title": "Say It in Your Own Words: Paraphrasing and Summarizing",
+    "folder": "lessons/258201-05",
+    "plan": "courses/258201/weekly-plan.json"
+  },
+  {
+    "id": "258201-06",
+    "course": "258201",
+    "title": "Results, Figures and Tables: What Did They Find?",
+    "folder": "lessons/258201-06",
+    "plan": "courses/258201/weekly-plan.json"
+  },
+  {
+    "id": "258201-07",
+    "course": "258201",
+    "title": "Think Like a Scientist: Analysis, Synthesis and Discussion",
+    "folder": "lessons/258201-07",
+    "plan": "courses/258201/weekly-plan.json"
+  },
+  {
+    "id": "258202-01",
+    "course": "258202",
+    "title": "Start Strong: Opening a Biology Research Presentation",
+    "folder": "lessons/258202-01",
+    "plan": "courses/258202/weekly-plan.json"
+  },
+  {
+    "id": "258202-02",
+    "course": "258202",
+    "title": "Choose Your Research Story: From Article to Talk",
+    "folder": "lessons/258202-02",
+    "plan": "courses/258202/weekly-plan.json"
+  },
+  {
+    "id": "258202-03",
+    "course": "258202",
+    "title": "Speak Like a Presenter: Voice, Pace and Body Language",
+    "folder": "lessons/258202-03",
+    "plan": "courses/258202/weekly-plan.json"
+  },
+  {
+    "id": "258202-04",
+    "course": "258202",
+    "title": "Numbers, Graphs and Tables in Presentations",
+    "folder": "lessons/258202-04",
+    "plan": "courses/258202/weekly-plan.json"
+  },
+  {
+    "id": "258202-05",
+    "course": "258202",
+    "title": "Guide Your Audience: Signposting and Transitions",
+    "folder": "lessons/258202-05",
+    "plan": "courses/258202/weekly-plan.json"
+  },
+  {
+    "id": "258202-06",
+    "course": "258202",
+    "title": "Questions Are Your Friend: Q&A Strategies",
+    "folder": "lessons/258202-06",
+    "plan": "courses/258202/weekly-plan.json"
+  },
+  {
+    "id": "258202-07",
+    "course": "258202",
+    "title": "Final Research Presentation Rehearsal",
+    "folder": "lessons/258202-07",
+    "plan": "courses/258202/weekly-plan.json"
+  },
+  {
+    "id": "grammar-01",
+    "course": "grammar",
+    "title": "Articles in Biology: a, an, the and zero article",
+    "folder": "lessons/grammar-01",
+    "plan": null
+  },
+  {
+    "id": "grammar-02",
+    "course": "grammar",
+    "title": "Tense and Passive Voice in Science",
+    "folder": "lessons/grammar-02",
+    "plan": null
+  },
+  {
+    "id": "grammar-03",
+    "course": "grammar",
+    "title": "Subject-Verb Agreement with Biology Nouns",
+    "folder": "lessons/grammar-03",
+    "plan": null
+  },
+  {
+    "id": "grammar-04",
+    "course": "grammar",
+    "title": "Singular and Plural Nouns in Biology",
+    "folder": "lessons/grammar-04",
+    "plan": null
+  },
+  {
+    "id": "grammar-05",
+    "course": "grammar",
+    "title": "Prepositions for Location, Time and Method",
+    "folder": "lessons/grammar-05",
+    "plan": null
+  },
+  {
+    "id": "grammar-06",
+    "course": "grammar",
+    "title": "Sentence Structure: Avoid Fragments and Run-ons",
+    "folder": "lessons/grammar-06",
+    "plan": null
+  },
+  {
+    "id": "grammar-07",
+    "course": "grammar",
+    "title": "Linking Words and Clear Academic Style",
+    "folder": "lessons/grammar-07",
+    "plan": null
+  }
+]
