@@ -1,0 +1,41 @@
+{
+  "id": "258202-03",
+  "course": "258202",
+  "number": 3,
+  "title": "Speak Like a Presenter: Voice, Pace and Body Language",
+  "objective": "Students practice delivery skills that make biology content easier to follow.",
+  "ppt": "original.pptx",
+  "pdf": "chapter.pdf",
+  "syllabus": "../../courses/258202/syllabus.pdf",
+  "vocabulary": [
+    "voice",
+    "pace",
+    "pause",
+    "eye contact",
+    "gesture",
+    "confidence",
+    "clearly",
+    "slowly",
+    "emphasis",
+    "body language"
+  ],
+  "phrases": [
+    "Let me pause here.",
+    "This point is important.",
+    "Please look at Figure 1.",
+    "I will explain this step by step."
+  ],
+  "outcomes": [
+    "Use voice volume and pauses.",
+    "Control speed for difficult terms.",
+    "Use natural gestures and eye contact.",
+    "Reduce reading from slides."
+  ],
+  "activity": "Delivery drill: say one result sentence three ways - too fast, too flat, then clear and natural.",
+  "example": "When saying “polymerase chain reaction,” the presenter slows down, pauses, and then explains “PCR” in simpler words.",
+  "teachingDeck": "teaching.pptx",
+  "teachingOutline": "teaching-outline.json",
+  "worksheet": "student.docx",
+  "key": "lecturer-key.docx",
+  "slideCount": 8
+}

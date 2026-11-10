@@ -1,0 +1,41 @@
+{
+  "id": "258202-06",
+  "course": "258202",
+  "number": 6,
+  "title": "Questions Are Your Friend: Q&A Strategies",
+  "objective": "Students learn polite, confident responses when answering presentation questions.",
+  "ppt": "original.pptx",
+  "pdf": "chapter.pdf",
+  "syllabus": "../../courses/258202/syllabus.pdf",
+  "vocabulary": [
+    "question",
+    "clarification",
+    "limitation",
+    "evidence",
+    "answer",
+    "repeat",
+    "definite",
+    "factor",
+    "future study",
+    "recommend"
+  ],
+  "phrases": [
+    "Thank you for your question.",
+    "If I understand correctly, ...",
+    "We did not measure that factor.",
+    "Future studies could ..."
+  ],
+  "outcomes": [
+    "Listen for the main question.",
+    "Ask for repetition or clarification.",
+    "Answer directly, then add evidence.",
+    "Admit limitations professionally."
+  ],
+  "activity": "Q&A simulator: students choose an answer starter, then add one sentence based on the data.",
+  "example": "“That is an important question. We cannot give a definite answer because we did not directly measure that factor.”",
+  "teachingDeck": "teaching.pptx",
+  "teachingOutline": "teaching-outline.json",
+  "worksheet": "student.docx",
+  "key": "lecturer-key.docx",
+  "slideCount": 8
+}

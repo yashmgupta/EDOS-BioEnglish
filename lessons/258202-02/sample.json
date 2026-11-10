@@ -1,0 +1,85 @@
+{
+  "version": 1,
+  "title": "Choose Your Research Story: From Article to Talk",
+  "course": "258202",
+  "lesson": "258202-02",
+  "objective": "Students learn to turn a paper into a simple presentation story.",
+  "minutes": 20,
+  "level": "Guided",
+  "type": "Exercise",
+  "form": "A",
+  "context": "Report: A class asked which pond had more frogs. It counted nine at the large pond and four at the small pond on one morning. The team wants to visit again.",
+  "items": [
+    {
+      "prompt": "Give the main question in one sentence.",
+      "answer": "Which pond had more frogs during the visit?",
+      "hint": "Ask which place had more animals.",
+      "marks": 4
+    },
+    {
+      "prompt": "Make three short notes for a talk: question, result, next step.",
+      "answer": "Compare ponds; nine frogs vs four; visit again.",
+      "hint": "Keep each note under ten words.",
+      "marks": 3
+    },
+    {
+      "prompt": "Tell your partner the main message in two sentences. Include one limit.",
+      "answer": "More frogs were seen at the large pond on this visit. We need more visits to see if this continues.",
+      "hint": "Start with what the team saw.",
+      "marks": 3
+    }
+  ],
+  "slides": [
+    {
+      "title": "Today’s goal",
+      "body": [
+        "Students learn to turn a paper into a simple presentation story."
+      ]
+    },
+    {
+      "title": "Words to know",
+      "body": [
+        "research story",
+        "problem",
+        "importance",
+        "key point",
+        "background",
+        "method"
+      ]
+    },
+    {
+      "title": "Read and think",
+      "body": [
+        "Report: A class asked which pond had more frogs. It counted nine at the large pond and four at the small pond on one morning. The team wants to visit again."
+      ]
+    },
+    {
+      "title": "Task 1",
+      "body": [
+        "Give the main question in one sentence.",
+        "Ask which place had more animals."
+      ]
+    },
+    {
+      "title": "Task 2",
+      "body": [
+        "Make three short notes for a talk: question, result, next step.",
+        "Keep each note under ten words."
+      ]
+    },
+    {
+      "title": "Task 3",
+      "body": [
+        "Tell your partner the main message in two sentences. Include one limit.",
+        "Start with what the team saw."
+      ]
+    },
+    {
+      "title": "Before you finish",
+      "body": [
+        "Share one answer with a partner.",
+        "Which English phrase helped you today?"
+      ]
+    }
+  ]
+}

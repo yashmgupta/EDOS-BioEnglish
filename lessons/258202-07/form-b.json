@@ -1,0 +1,85 @@
+{
+  "version": 1,
+  "title": "Final Research Presentation Rehearsal",
+  "course": "258202",
+  "lesson": "258202-07",
+  "objective": "Students combine story, slides, voice, graph language, and Q&A into a complete presentation.",
+  "minutes": 20,
+  "level": "Guided",
+  "type": "Exercise",
+  "form": "B",
+  "context": "Rehearsal notes: A class asked when birds were seen in a garden. In equal periods it saw 8 in the morning and 4 at dusk. There was one visit per period.",
+  "items": [
+    {
+      "prompt": "Give a short talk with the question, the two counts and one limit.",
+      "answer": "Time and bird counts; 8 morning, 4 dusk; one visit per period.",
+      "hint": "Use three notes: question, result, limit.",
+      "marks": 4
+    },
+    {
+      "prompt": "Answer two audience questions: Which time had more? Would another day give the same result?",
+      "answer": "Morning. Another day could differ; repeat visits to check.",
+      "hint": "Support the first answer with a count.",
+      "marks": 3
+    },
+    {
+      "prompt": "Ask for feedback. Name one change you will make for your next talk.",
+      "answer": "Accept one specific change based on feedback about structure, delivery, or explaining a number.",
+      "hint": "Try: Next time I will ___ so the audience can ___.",
+      "marks": 3
+    }
+  ],
+  "slides": [
+    {
+      "title": "Today’s goal",
+      "body": [
+        "Students combine story, slides, voice, graph language, and Q&A into a complete presentation."
+      ]
+    },
+    {
+      "title": "Words to know",
+      "body": [
+        "rehearsal",
+        "rubric",
+        "feedback",
+        "timing",
+        "visual aid",
+        "conclusion"
+      ]
+    },
+    {
+      "title": "Read and think",
+      "body": [
+        "Rehearsal notes: A class asked when birds were seen in a garden. In equal periods it saw 8 in the morning and 4 at dusk. There was one visit per period."
+      ]
+    },
+    {
+      "title": "Task 1",
+      "body": [
+        "Give a short talk with the question, the two counts and one limit.",
+        "Use three notes: question, result, limit."
+      ]
+    },
+    {
+      "title": "Task 2",
+      "body": [
+        "Answer two audience questions: Which time had more? Would another day give the same result?",
+        "Support the first answer with a count."
+      ]
+    },
+    {
+      "title": "Task 3",
+      "body": [
+        "Ask for feedback. Name one change you will make for your next talk.",
+        "Try: Next time I will ___ so the audience can ___."
+      ]
+    },
+    {
+      "title": "Before you finish",
+      "body": [
+        "Share one answer with a partner.",
+        "Which English phrase helped you today?"
+      ]
+    }
+  ]
+}

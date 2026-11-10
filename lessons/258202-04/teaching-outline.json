@@ -1,0 +1,63 @@
+{
+  "title": "Talk an audience through a graph",
+  "objective": "Name the axes, compare two values and state one message.",
+  "slides": [
+    {
+      "title": "Read the display aloud",
+      "body": [
+        "The horizontal axis runs across the page. The vertical axis runs up the page.",
+        "Name what each axis measures. Include a unit when the values have one. Choose two values to compare."
+      ]
+    },
+    {
+      "title": "Model a comparison",
+      "body": [
+        "Practice table: mean leaf length at week 1 was 2 cm. At week 2 it was 5 cm.",
+        "“The table shows mean leaf length in centimetres. It rose from 2 to 5 cm.”",
+        "Which words tell listeners the measure, unit and direction?"
+      ]
+    },
+    {
+      "title": "Read the first case together",
+      "body": [
+        "Across: time of day.",
+        "Up: number of birds.",
+        "Morning: 10 birds.",
+        "Evening: 15 birds.",
+        "Both counts took the same time."
+      ]
+    },
+    {
+      "title": "Try it with a partner",
+      "body": [
+        "Introduce both axes in your own words.",
+        "Compare the two counts. Give the change as a number and a percentage of the morning count.",
+        "Say what each axis shows."
+      ]
+    },
+    {
+      "title": "Try a new case",
+      "body": [
+        "Across: time of day.",
+        "Up: number of bees.",
+        "Morning: 8 bees.",
+        "Evening: 12 bees.",
+        "Both counts took the same time."
+      ]
+    },
+    {
+      "title": "Work on your own",
+      "body": [
+        "Introduce both axes in your own words.",
+        "Compare the two counts. Give the change as a number and a percentage of the morning count.",
+        "Give a short spoken explanation with one clear final message."
+      ]
+    },
+    {
+      "title": "Give one clear takeaway",
+      "body": [
+        "Ask your listener to sketch the direction of the change. Check the sketch against the values."
+      ]
+    }
+  ]
+}

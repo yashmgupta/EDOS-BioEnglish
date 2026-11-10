@@ -1,0 +1,85 @@
+{
+  "version": 1,
+  "title": "Numbers, Graphs and Tables in Presentations",
+  "course": "258202",
+  "lesson": "258202-04",
+  "objective": "Students practice speaking about data so the audience understands the result quickly.",
+  "minutes": 20,
+  "level": "Guided",
+  "type": "Exercise",
+  "form": "A",
+  "context": "Graph notes: Horizontal axis = time of day. Vertical axis = bird count. Morning: 10 birds. Evening: 15 birds. Equal observation time.",
+  "items": [
+    {
+      "prompt": "Introduce both axes in your own words.",
+      "answer": "The horizontal axis shows time of day. The vertical axis shows the number of birds.",
+      "hint": "Say what each axis shows.",
+      "marks": 4
+    },
+    {
+      "prompt": "Compare the two counts. Give the change as a number and a percentage of the morning count.",
+      "answer": "From 10 to 15 birds; five more, a 50% increase.",
+      "hint": "Divide the change by the morning count. Multiply by 100.",
+      "marks": 3
+    },
+    {
+      "prompt": "Give a short spoken explanation with one clear final message.",
+      "answer": "Evening had the larger bird count in this observation; use the values and avoid a general claim.",
+      "hint": "Try: In this graph ... . The main point is ... .",
+      "marks": 3
+    }
+  ],
+  "slides": [
+    {
+      "title": "Today’s goal",
+      "body": [
+        "Students practice speaking about data so the audience understands the result quickly."
+      ]
+    },
+    {
+      "title": "Words to know",
+      "body": [
+        "horizontal axis",
+        "vertical axis",
+        "percentage",
+        "approximately",
+        "trend",
+        "higher than"
+      ]
+    },
+    {
+      "title": "Read and think",
+      "body": [
+        "Graph notes: Horizontal axis = time of day. Vertical axis = bird count. Morning: 10 birds. Evening: 15 birds. Equal observation time."
+      ]
+    },
+    {
+      "title": "Task 1",
+      "body": [
+        "Introduce both axes in your own words.",
+        "Say what each axis shows."
+      ]
+    },
+    {
+      "title": "Task 2",
+      "body": [
+        "Compare the two counts. Give the change as a number and a percentage of the morning count.",
+        "Divide the change by the morning count. Multiply by 100."
+      ]
+    },
+    {
+      "title": "Task 3",
+      "body": [
+        "Give a short spoken explanation with one clear final message.",
+        "Try: In this graph ... . The main point is ... ."
+      ]
+    },
+    {
+      "title": "Before you finish",
+      "body": [
+        "Share one answer with a partner.",
+        "Which English phrase helped you today?"
+      ]
+    }
+  ]
+}

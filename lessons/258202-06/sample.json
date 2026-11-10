@@ -1,0 +1,85 @@
+{
+  "version": 1,
+  "title": "Questions Are Your Friend: Q&A Strategies",
+  "course": "258202",
+  "lesson": "258202-06",
+  "objective": "Students learn polite, confident responses when answering presentation questions.",
+  "minutes": 20,
+  "level": "Guided",
+  "type": "Exercise",
+  "form": "A",
+  "context": "Your team counted 12 snails near a pond and 5 near a stream on one day. An audience member asks, “Where did you see more snails? Is it always like that?”",
+  "items": [
+    {
+      "prompt": "Ask the speaker to repeat or clarify part of the question.",
+      "answer": "Accept a polite request that mentions which part of the question needs clarification.",
+      "hint": "Try: Could you repeat the part about ___?",
+      "marks": 4
+    },
+    {
+      "prompt": "Answer the first question directly. Include both counts.",
+      "answer": "We saw more snails near the pond: 12 compared with 5 near the stream.",
+      "hint": "Start with the place. Then give the numbers.",
+      "marks": 3
+    },
+    {
+      "prompt": "Answer the second question. Give one limit and one next step.",
+      "answer": "One day cannot show a usual pattern. Accept a plan to repeat the observation on other days.",
+      "hint": "Try: We do not know yet because ___. Next we could ___.",
+      "marks": 3
+    }
+  ],
+  "slides": [
+    {
+      "title": "Today’s goal",
+      "body": [
+        "Students learn polite, confident responses when answering presentation questions."
+      ]
+    },
+    {
+      "title": "Words to know",
+      "body": [
+        "question",
+        "clarification",
+        "limitation",
+        "evidence",
+        "answer",
+        "repeat"
+      ]
+    },
+    {
+      "title": "Read and think",
+      "body": [
+        "Your team counted 12 snails near a pond and 5 near a stream on one day. An audience member asks, “Where did you see more snails? Is it always like that?”"
+      ]
+    },
+    {
+      "title": "Task 1",
+      "body": [
+        "Ask the speaker to repeat or clarify part of the question.",
+        "Try: Could you repeat the part about ___?"
+      ]
+    },
+    {
+      "title": "Task 2",
+      "body": [
+        "Answer the first question directly. Include both counts.",
+        "Start with the place. Then give the numbers."
+      ]
+    },
+    {
+      "title": "Task 3",
+      "body": [
+        "Answer the second question. Give one limit and one next step.",
+        "Try: We do not know yet because ___. Next we could ___."
+      ]
+    },
+    {
+      "title": "Before you finish",
+      "body": [
+        "Share one answer with a partner.",
+        "Which English phrase helped you today?"
+      ]
+    }
+  ]
+}

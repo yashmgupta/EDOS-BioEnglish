@@ -1,0 +1,41 @@
+{
+  "id": "258202-02",
+  "course": "258202",
+  "number": 2,
+  "title": "Choose Your Research Story: From Article to Talk",
+  "objective": "Students learn to turn a paper into a simple presentation story.",
+  "ppt": "original.pptx",
+  "pdf": "chapter.pdf",
+  "syllabus": "../../courses/258202/syllabus.pdf",
+  "vocabulary": [
+    "research story",
+    "problem",
+    "importance",
+    "key point",
+    "background",
+    "method",
+    "finding",
+    "message",
+    "audience",
+    "scope"
+  ],
+  "phrases": [
+    "The problem is ...",
+    "This topic is important because ...",
+    "The key finding was ...",
+    "My main message is ..."
+  ],
+  "outcomes": [
+    "Select a manageable biology article.",
+    "Identify the research problem and why it matters.",
+    "Choose 3-4 key points for a short talk.",
+    "Avoid copying the article structure too heavily."
+  ],
+  "activity": "Research story card: students fill four boxes: problem, method, main result, why it matters.",
+  "example": "A paper about enzyme activity can become a story: why enzyme speed matters, what temperature was tested, what result was found, and why it matters.",
+  "teachingDeck": "teaching.pptx",
+  "teachingOutline": "teaching-outline.json",
+  "worksheet": "student.docx",
+  "key": "lecturer-key.docx",
+  "slideCount": 8
+}

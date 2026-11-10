@@ -1,0 +1,85 @@
+{
+  "version": 1,
+  "title": "Speak Like a Presenter: Voice, Pace and Body Language",
+  "course": "258202",
+  "lesson": "258202-03",
+  "objective": "Students practice delivery skills that make biology content easier to follow.",
+  "minutes": 20,
+  "level": "Guided",
+  "type": "Exercise",
+  "form": "B",
+  "context": "Slide: “Garden bees. Morning: 6. Afternoon: 14.” The slide is for first-year students.",
+  "items": [
+    {
+      "prompt": "Write one short sentence to say aloud. Add a slash where you will pause.",
+      "answer": "Example: We saw six bees in the morning / and fourteen in the afternoon.",
+      "hint": "Pause between the two counts.",
+      "marks": 4
+    },
+    {
+      "prompt": "Say your sentence at a steady pace. Point to each number as you say it.",
+      "answer": "Listen for clear numbers and a pause. Watch for a gesture that matches each number.",
+      "hint": "Look up after each number.",
+      "marks": 3
+    },
+    {
+      "prompt": "Ask a partner to repeat the main message. Write one change you will make.",
+      "answer": "Accept one concrete change from feedback, such as a longer pause before the second number.",
+      "hint": "Ask: What did you hear?",
+      "marks": 3
+    }
+  ],
+  "slides": [
+    {
+      "title": "Today’s goal",
+      "body": [
+        "Students practice delivery skills that make biology content easier to follow."
+      ]
+    },
+    {
+      "title": "Words to know",
+      "body": [
+        "voice",
+        "pace",
+        "pause",
+        "eye contact",
+        "gesture",
+        "confidence"
+      ]
+    },
+    {
+      "title": "Read and think",
+      "body": [
+        "Slide: “Garden bees. Morning: 6. Afternoon: 14.” The slide is for first-year students."
+      ]
+    },
+    {
+      "title": "Task 1",
+      "body": [
+        "Write one short sentence to say aloud. Add a slash where you will pause.",
+        "Pause between the two counts."
+      ]
+    },
+    {
+      "title": "Task 2",
+      "body": [
+        "Say your sentence at a steady pace. Point to each number as you say it.",
+        "Look up after each number."
+      ]
+    },
+    {
+      "title": "Task 3",
+      "body": [
+        "Ask a partner to repeat the main message. Write one change you will make.",
+        "Ask: What did you hear?"
+      ]
+    },
+    {
+      "title": "Before you finish",
+      "body": [
+        "Share one answer with a partner.",
+        "Which English phrase helped you today?"
+      ]
+    }
+  ]
+}

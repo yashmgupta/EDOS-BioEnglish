@@ -1,0 +1,85 @@
+{
+  "version": 1,
+  "title": "Guide Your Audience: Signposting and Transitions",
+  "course": "258202",
+  "lesson": "258202-05",
+  "objective": "Students learn phrases that help listeners follow a scientific presentation.",
+  "minutes": 20,
+  "level": "Guided",
+  "type": "Exercise",
+  "form": "B",
+  "context": "Talk notes: We watched birds. We visited two gardens. One garden had a higher count. We want to visit again.",
+  "items": [
+    {
+      "prompt": "Introduce your topic and preview the talk.",
+      "answer": "Accept an opening that names birds, gardens and the plan.",
+      "hint": "Try: First I will explain ___. Then I will show ___.",
+      "marks": 4
+    },
+    {
+      "prompt": "Write one line to move from your method to the finding.",
+      "answer": "Example: Now that you know how we counted birds, let us look at the two garden counts.",
+      "hint": "Connect a completed step to the next step.",
+      "marks": 3
+    },
+    {
+      "prompt": "Close with a summary and a next step.",
+      "answer": "One garden had more birds on this visit. We plan to visit again.",
+      "hint": "Try: To sum up ... . Next ... .",
+      "marks": 3
+    }
+  ],
+  "slides": [
+    {
+      "title": "Today’s goal",
+      "body": [
+        "Students learn phrases that help listeners follow a scientific presentation."
+      ]
+    },
+    {
+      "title": "Words to know",
+      "body": [
+        "signposting",
+        "transition",
+        "section",
+        "move on",
+        "turn to",
+        "summarize"
+      ]
+    },
+    {
+      "title": "Read and think",
+      "body": [
+        "Talk notes: We watched birds. We visited two gardens. One garden had a higher count. We want to visit again."
+      ]
+    },
+    {
+      "title": "Task 1",
+      "body": [
+        "Introduce your topic and preview the talk.",
+        "Try: First I will explain ___. Then I will show ___."
+      ]
+    },
+    {
+      "title": "Task 2",
+      "body": [
+        "Write one line to move from your method to the finding.",
+        "Connect a completed step to the next step."
+      ]
+    },
+    {
+      "title": "Task 3",
+      "body": [
+        "Close with a summary and a next step.",
+        "Try: To sum up ... . Next ... ."
+      ]
+    },
+    {
+      "title": "Before you finish",
+      "body": [
+        "Share one answer with a partner.",
+        "Which English phrase helped you today?"
+      ]
+    }
+  ]
+}

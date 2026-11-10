@@ -1,0 +1,41 @@
+{
+  "id": "258202-04",
+  "course": "258202",
+  "number": 4,
+  "title": "Numbers, Graphs and Tables in Presentations",
+  "objective": "Students practice speaking about data so the audience understands the result quickly.",
+  "ppt": "original.pptx",
+  "pdf": "chapter.pdf",
+  "syllabus": "../../courses/258202/syllabus.pdf",
+  "vocabulary": [
+    "horizontal axis",
+    "vertical axis",
+    "percentage",
+    "approximately",
+    "trend",
+    "higher than",
+    "lower than",
+    "peak",
+    "stable",
+    "respectively"
+  ],
+  "phrases": [
+    "The horizontal axis represents ...",
+    "The vertical axis shows ...",
+    "As you can see, ...",
+    "The value reached a peak at ..."
+  ],
+  "outcomes": [
+    "Introduce axes and units.",
+    "Describe trends and comparisons.",
+    "Use approximately and percentage accurately.",
+    "Point the audience to the main result."
+  ],
+  "activity": "Graph speaking lab: students explain one graph in three levels: easy, standard, academic.",
+  "example": "“As you can see from this graph, bacterial growth increased rapidly during the first six hours and then remained stable.”",
+  "teachingDeck": "teaching.pptx",
+  "teachingOutline": "teaching-outline.json",
+  "worksheet": "student.docx",
+  "key": "lecturer-key.docx",
+  "slideCount": 8
+}

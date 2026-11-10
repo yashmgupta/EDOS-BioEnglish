@@ -1,0 +1,55 @@
+{
+  "title": "Answer a question using evidence",
+  "objective": "Clarify a question, answer with evidence, and state what you cannot tell.",
+  "slides": [
+    {
+      "title": "Take the question in three steps",
+      "body": [
+        "Listen to the whole question. If part is unclear, ask the listener to repeat it.",
+        "Answer the part your evidence supports. Say what extra information would help with the rest."
+      ]
+    },
+    {
+      "title": "Listen to an honest answer",
+      "body": [
+        "Audience: “Were more frogs seen after dark? Why?”",
+        "Presenter: “Yes. We saw 6 after dark and 2 before dark in our time periods.”",
+        "“We did not measure the reason. We could repeat the counts and record the conditions.”"
+      ]
+    },
+    {
+      "title": "Read the first case together",
+      "body": [
+        "Your team counted 12 snails near a pond and 5 near a stream on one day. An audience member asks, “Where did you see more snails? Is it always like that?”"
+      ]
+    },
+    {
+      "title": "Try it with a partner",
+      "body": [
+        "Ask the speaker to repeat or clarify part of the question.",
+        "Answer the first question directly. Include both counts.",
+        "Try: Could you repeat the part about ___?"
+      ]
+    },
+    {
+      "title": "Try a new case",
+      "body": [
+        "Your team counted 11 bees in a park and 4 in a field on one day. An audience member asks, “Where did you see more bees? Is it always like that?”"
+      ]
+    },
+    {
+      "title": "Work on your own",
+      "body": [
+        "Ask the speaker to repeat or clarify part of the question.",
+        "Answer the first question directly. Include both counts.",
+        "Answer the second question. Give one limit and one next step."
+      ]
+    },
+    {
+      "title": "Try a harder follow-up",
+      "body": [
+        "Ask your partner one question the data cannot answer. Listen for an honest limit and one useful next step."
+      ]
+    }
+  ]
+}

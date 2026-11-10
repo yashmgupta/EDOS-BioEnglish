@@ -1,0 +1,85 @@
+{
+  "version": 1,
+  "title": "Start Strong: Opening a Biology Research Presentation",
+  "course": "258202",
+  "lesson": "258202-01",
+  "objective": "Students learn a clear opening that introduces topic, speaker, and research purpose.",
+  "minutes": 20,
+  "level": "Guided",
+  "type": "Exercise",
+  "form": "A",
+  "context": "You will speak about birds at a campus pond. Your talk will cover where you watched, what you saw and one question for next time.",
+  "items": [
+    {
+      "prompt": "Write a greeting and a title for your talk.",
+      "answer": "Example: Good morning. My talk is called Birds at Our Campus Pond.",
+      "hint": "Keep your title short.",
+      "marks": 4
+    },
+    {
+      "prompt": "Say why you are giving the talk in one sentence.",
+      "answer": "Example: I want to share what we learned about birds at the pond.",
+      "hint": "Try: Today I want to show you ___.",
+      "marks": 3
+    },
+    {
+      "prompt": "Give a three-part plan. Say the full opening to a partner.",
+      "answer": "Listen for the place, observations, and a question for next time in a clear order.",
+      "hint": "Try: First ..., then ..., and finally ... .",
+      "marks": 3
+    }
+  ],
+  "slides": [
+    {
+      "title": "Today’s goal",
+      "body": [
+        "Students learn a clear opening that introduces topic, speaker, and research purpose."
+      ]
+    },
+    {
+      "title": "Words to know",
+      "body": [
+        "presentation",
+        "audience",
+        "title",
+        "topic",
+        "roadmap",
+        "background"
+      ]
+    },
+    {
+      "title": "Read and think",
+      "body": [
+        "You will speak about birds at a campus pond. Your talk will cover where you watched, what you saw and one question for next time."
+      ]
+    },
+    {
+      "title": "Task 1",
+      "body": [
+        "Write a greeting and a title for your talk.",
+        "Keep your title short."
+      ]
+    },
+    {
+      "title": "Task 2",
+      "body": [
+        "Say why you are giving the talk in one sentence.",
+        "Try: Today I want to show you ___."
+      ]
+    },
+    {
+      "title": "Task 3",
+      "body": [
+        "Give a three-part plan. Say the full opening to a partner.",
+        "Try: First ..., then ..., and finally ... ."
+      ]
+    },
+    {
+      "title": "Before you finish",
+      "body": [
+        "Share one answer with a partner.",
+        "Which English phrase helped you today?"
+      ]
+    }
+  ]
+}

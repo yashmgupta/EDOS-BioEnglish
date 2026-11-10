@@ -1,0 +1,41 @@
+{
+  "id": "258202-05",
+  "course": "258202",
+  "number": 5,
+  "title": "Guide Your Audience: Signposting and Transitions",
+  "objective": "Students learn phrases that help listeners follow a scientific presentation.",
+  "ppt": "original.pptx",
+  "pdf": "chapter.pdf",
+  "syllabus": "../../courses/258202/syllabus.pdf",
+  "vocabulary": [
+    "signposting",
+    "transition",
+    "section",
+    "move on",
+    "turn to",
+    "summarize",
+    "conclusion",
+    "first",
+    "next",
+    "finally"
+  ],
+  "phrases": [
+    "Let us move on to ...",
+    "Now I will turn to ...",
+    "To summarize this section, ...",
+    "This brings me to the conclusion."
+  ],
+  "outcomes": [
+    "Use signposting to move between sections.",
+    "Introduce background, methods, results, and conclusion.",
+    "Preview and summarize key points.",
+    "Connect slides smoothly."
+  ],
+  "activity": "Signpost relay: each student receives one slide transition and must say it naturally before the next speaker continues.",
+  "example": "After methods, a presenter says: “Now that I have explained the experimental design, let us look at the main results.”",
+  "teachingDeck": "teaching.pptx",
+  "teachingOutline": "teaching-outline.json",
+  "worksheet": "student.docx",
+  "key": "lecturer-key.docx",
+  "slideCount": 8
+}

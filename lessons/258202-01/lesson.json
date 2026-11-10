@@ -1,0 +1,41 @@
+{
+  "id": "258202-01",
+  "course": "258202",
+  "number": 1,
+  "title": "Start Strong: Opening a Biology Research Presentation",
+  "objective": "Students learn a clear opening that introduces topic, speaker, and research purpose.",
+  "ppt": "original.pptx",
+  "pdf": "chapter.pdf",
+  "syllabus": "../../courses/258202/syllabus.pdf",
+  "vocabulary": [
+    "presentation",
+    "audience",
+    "title",
+    "topic",
+    "roadmap",
+    "background",
+    "objective",
+    "study",
+    "investigate",
+    "attention"
+  ],
+  "phrases": [
+    "Good afternoon everyone.",
+    "Today I would like to present ...",
+    "First, I will ...",
+    "The main objective was to ..."
+  ],
+  "outcomes": [
+    "Greet an audience professionally.",
+    "Introduce the title and topic.",
+    "Give a short roadmap.",
+    "State the presentation purpose."
+  ],
+  "activity": "Opening rehearsal: students prepare a 45-second opening and practice with a timer.",
+  "example": "“Good afternoon everyone. Today I would like to present a study that investigated how light conditions affect early plant growth.”",
+  "teachingDeck": "teaching.pptx",
+  "teachingOutline": "teaching-outline.json",
+  "worksheet": "student.docx",
+  "key": "lecturer-key.docx",
+  "slideCount": 8
+}

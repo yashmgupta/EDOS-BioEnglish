@@ -1,0 +1,41 @@
+{
+  "id": "258202-07",
+  "course": "258202",
+  "number": 7,
+  "title": "Final Research Presentation Rehearsal",
+  "objective": "Students combine story, slides, voice, graph language, and Q&A into a complete presentation.",
+  "ppt": "original.pptx",
+  "pdf": "chapter.pdf",
+  "syllabus": "../../courses/258202/syllabus.pdf",
+  "vocabulary": [
+    "rehearsal",
+    "rubric",
+    "feedback",
+    "timing",
+    "visual aid",
+    "conclusion",
+    "question",
+    "confidence",
+    "improvement",
+    "reflection"
+  ],
+  "phrases": [
+    "My presentation is organized into ...",
+    "The most important result is ...",
+    "In conclusion, ...",
+    "Thank you for listening."
+  ],
+  "outcomes": [
+    "Organize a short research presentation.",
+    "Use clear visual slides.",
+    "Describe one figure or table.",
+    "Respond to at least two questions."
+  ],
+  "activity": "Rehearsal day: present for 5-7 minutes, receive peer feedback, revise one slide and one answer.",
+  "example": "A final talk on plant growth includes background, objective, methods, one graph, conclusion, limitation, and future research.",
+  "teachingDeck": "teaching.pptx",
+  "teachingOutline": "teaching-outline.json",
+  "worksheet": "student.docx",
+  "key": "lecturer-key.docx",
+  "slideCount": 8
+}
