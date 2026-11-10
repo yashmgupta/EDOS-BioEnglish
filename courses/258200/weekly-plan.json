@@ -1,0 +1,467 @@
+{
+  "course": "258200",
+  "title": "Communicative English for Specific Purposes in Biology",
+  "reference": "Course Plan, pp. 6–8; assessment tasks and marking criteria, pp. 9–13. Weeks 6–8 and 10–16 are grouped in the original plan. Their division into activities here is a suggested sequence. Week/day labels follow the supplied edition; confirm teaching dates for a new term.",
+  "weeks": [
+    {
+      "week": "1",
+      "topic": "Course orientation and meeting your group",
+      "kind": "lesson",
+      "lesson": "258200-01",
+      "guide": "21 Nov. Explain the course aims, grading, pre-test arrangements, small groups, and how students sign up to meet a teaching assistant (TA). Demonstrate a short greeting.",
+      "slides": [
+        {
+          "title": "Meet your biology partner",
+          "body": [
+            "Lecturer: “Hi, I’m Mali. I study biology. I like watching birds.”",
+            "Listener: “Which birds do you see near home?”"
+          ]
+        },
+        {
+          "title": "Have your first conversation",
+          "body": [
+            "Tell a partner your name and one biology interest.",
+            "Listen to their answer. Ask one question about something they said."
+          ]
+        },
+        {
+          "title": "Before you leave",
+          "body": [
+            "Find your small group. Ask how to book your TA meeting.",
+            "Tell your lecturer one speaking skill you want to practise."
+          ]
+        }
+      ],
+      "deck": "weeks/Week-01.pptx"
+    },
+    {
+      "week": "2",
+      "topic": "Course pre-test",
+      "kind": "assessment",
+      "lesson": null,
+      "guide": "28 Nov. The syllabus specifies a pre-test in Google Forms. Use the form supplied by the course team and their instructions. The studio has no official test form or items.",
+      "slides": [
+        {
+          "title": "Before the course pre-test",
+          "body": [
+            "Open the form your lecturer gives you. Check that you can hear any audio.",
+            "Tell the lecturer if you need help opening the form."
+          ]
+        },
+        {
+          "title": "After submitting",
+          "body": [
+            "Write down one kind of English task you want to practise. Keep this note for the end of the course."
+          ]
+        }
+      ],
+      "deck": "weeks/Week-02.pptx"
+    },
+    {
+      "week": "3",
+      "topic": "No class",
+      "kind": "break",
+      "lesson": null,
+      "guide": "5 Dec. The course plan marks this week as a holiday.",
+      "slides": []
+    },
+    {
+      "week": "4",
+      "topic": "Group introductions and the picture vocabulary assignment",
+      "kind": "lesson",
+      "lesson": "258200-04",
+      "guide": "12 Dec. Start with the chapter 1 icebreaker. Explain the small-group plan and TA meetings. Introduce the picture vocabulary assignment from page 9. The syllabus lists 10 January as its submission deadline.",
+      "slides": [
+        {
+          "title": "Use a picture to start a story",
+          "body": [
+            "Imagine a pond with a frog beside a water plant.",
+            "“A frog sits on a leaf at the edge of the pond. Then it jumps into the water.”"
+          ]
+        },
+        {
+          "title": "Build your picture story",
+          "body": [
+            "Choose one or two pictures. Use at least 20 words from the assigned biology list in a connected story.",
+            "Highlight each word you use. Check the meaning with a partner."
+          ]
+        },
+        {
+          "title": "Ask your listener",
+          "body": [
+            "Read two connected sentences aloud. Your partner names the picture detail they heard.",
+            "Change one sentence if your partner could not picture it."
+          ]
+        }
+      ],
+      "deck": "weeks/Week-04.pptx"
+    },
+    {
+      "week": "5",
+      "topic": "Small-group listening and speaking with the TA",
+      "kind": "lesson",
+      "lesson": "258200-02",
+      "guide": "19 Dec. Run a short listen-and-repeat round, then rehearse a TA conversation. Use chapter 5 to extend clarification practice. The source schedules small groups and TA contact.",
+      "slides": [
+        {
+          "title": "Listen for the strong syllable",
+          "body": [
+            "Your lecturer will say “microscope” twice. Listen, then say it.",
+            "MI-cro-scope. Put the strongest beat on the first part."
+          ]
+        },
+        {
+          "title": "Use the word in a question",
+          "body": [
+            "A: “What did you look at under the microscope?”",
+            "B: “A leaf. I saw small cells.”",
+            "Ask your partner a new question about the leaf."
+          ]
+        },
+        {
+          "title": "Check what you heard",
+          "body": [
+            "Say your partner’s answer back to them. If a word is unclear, ask “Could you say that word again?”"
+          ]
+        }
+      ],
+      "deck": "weeks/Week-05.pptx"
+    },
+    {
+      "week": "6",
+      "topic": "Talk about a personal experience",
+      "kind": "lesson",
+      "lesson": "258200-06",
+      "guide": "26 Dec. The syllabus groups weeks 6–8 together. This is a suggested order for two individual 2–3 minute talks and small-group listening practice. Give speakers time to share talk 1. Use the rubric on page 11.",
+      "slides": [
+        {
+          "title": "Build a short story",
+          "body": [
+            "Beginning: “Last month I watched birds at the school pond.”",
+            "Middle: “One bird stood still. Then it caught a small fish.”",
+            "End: “Now I watch how birds move before they catch food.”"
+          ]
+        },
+        {
+          "title": "Share your experience",
+          "body": [
+            "Use a few key words. Tell the class your story for 2–3 minutes.",
+            "Listeners: write down the event and one detail."
+          ]
+        },
+        {
+          "title": "Check the order",
+          "body": [
+            "Tell the speaker what happened first and what happened next. Ask about a detail you missed."
+          ]
+        }
+      ],
+      "deck": "weeks/Week-06.pptx"
+    },
+    {
+      "week": "7",
+      "topic": "Talk about a favourite interest",
+      "kind": "lesson",
+      "lesson": "258200-06",
+      "guide": "2 Jan. The syllabus groups weeks 6–8 together. This is a suggested order for two individual 2–3 minute talks and small-group listening practice. Invite students to share talk 2. Their interest can be personal or related to biology.",
+      "slides": [
+        {
+          "title": "Give a reason and an example",
+          "body": [
+            "“I like watching ants because they work together. Last week I saw several ants carrying one piece of food.”",
+            "What is the interest? What example helps you understand it?"
+          ]
+        },
+        {
+          "title": "Share your favourite topic",
+          "body": [
+            "Speak for 2–3 minutes. Name your interest, give one reason and tell one short example.",
+            "Your partner listens for the reason and asks one follow-up question."
+          ]
+        },
+        {
+          "title": "Try one sentence again",
+          "body": [
+            "Repeat your clearest sentence. Try a new example if the reason was hard to follow."
+          ]
+        }
+      ],
+      "deck": "weeks/Week-07.pptx"
+    },
+    {
+      "week": "8",
+      "topic": "Listen for details and finish your vocabulary story",
+      "kind": "lesson",
+      "lesson": "258200-03",
+      "guide": "9 Jan. The syllabus groups weeks 6–8 together. This is a suggested order for two individual 2–3 minute talks and small-group listening practice. Finish the two pre-midterm talks during the block. The course plan records the vocabulary submission deadline separately as 10 January.",
+      "slides": [
+        {
+          "title": "From a word to a sentence",
+          "body": [
+            "“Root” names a part. “The root takes in water” tells the listener its job.",
+            "“The leaf is above the root” tells the listener where to look."
+          ]
+        },
+        {
+          "title": "Check your story with a partner",
+          "body": [
+            "Read part of your picture story. Your partner points to each detail they hear.",
+            "Take turns. Replace one unclear word or add a missing detail."
+          ]
+        },
+        {
+          "title": "Before submission",
+          "body": [
+            "Check that the story connects its events and highlights at least 20 words from the assigned list.",
+            "Follow the lecturer’s submission instructions."
+          ]
+        }
+      ],
+      "deck": "weeks/Week-08.pptx"
+    },
+    {
+      "week": "9",
+      "topic": "Midterm period with no class",
+      "kind": "break",
+      "lesson": null,
+      "guide": "16 Jan. The weekly plan marks no teaching in the midterm period. Confirm the calendar with the course team when reusing this syllabus.",
+      "slides": []
+    },
+    {
+      "week": "10",
+      "topic": "Choose an English biology story from the media",
+      "kind": "lesson",
+      "lesson": "258200-06",
+      "guide": "23 Jan. Weeks 10–16 share one syllabus block. This week is a suggested way to schedule its tasks. Ask each student to choose an English article or video to share and submit with their talk.",
+      "slides": [
+        {
+          "title": "Choose one idea from your source",
+          "body": [
+            "Write the title and where you found the English article or video.",
+            "Find one image, event or fact you can explain in your own words."
+          ]
+        },
+        {
+          "title": "Practise a short opening",
+          "body": [
+            "“I watched a video about a butterfly. It landed on a flower. I wondered what it took from the flower.”",
+            "Tell your partner which detail came from your source and what you wondered."
+          ]
+        },
+        {
+          "title": "Check the source",
+          "body": [
+            "Show your partner the part of the article or video that supports your detail. Save your source for the lecturer."
+          ]
+        }
+      ],
+      "deck": "weeks/Week-10.pptx"
+    },
+    {
+      "week": "11",
+      "topic": "Give your biology media talk",
+      "kind": "lesson",
+      "lesson": "258200-06",
+      "guide": "30 Jan. Weeks 10–16 share one syllabus block. This week is a suggested way to schedule its tasks. Use this slot for the third 2–3 minute talk and the English source submission. Score the talk using the course rubric.",
+      "slides": [
+        {
+          "title": "Introduce the source",
+          "body": [
+            "“My article is about frogs near a pond. One detail that interested me was their call.”",
+            "Use the title of your own source and a detail that is really in it."
+          ]
+        },
+        {
+          "title": "Give your talk",
+          "body": [
+            "Speak for 2–3 minutes using key words. Explain the main idea and one detail in your own words.",
+            "Listeners: note one detail you could check in the source."
+          ]
+        },
+        {
+          "title": "Answer a listener",
+          "body": [
+            "Ask: “What does that word mean?” or “Where did you see that detail?”",
+            "Speaker: answer in one clear sentence."
+          ]
+        }
+      ],
+      "deck": "weeks/Week-11.pptx"
+    },
+    {
+      "week": "12",
+      "topic": "Share your biology vocabulary story",
+      "kind": "lesson",
+      "lesson": "258200-04",
+      "guide": "6 Feb. Weeks 10–16 share one syllabus block. This week is a suggested way to schedule its tasks. Use this slot for the fourth 2–3 minute talk. Have students bring the pictures and vocabulary story from their earlier assignment.",
+      "slides": [
+        {
+          "title": "Use your picture as a cue",
+          "body": [
+            "“Near the tree, a beetle is on a leaf. Its legs hold the leaf as it moves.”",
+            "Which words tell you where to look? Which words tell you what happened?"
+          ]
+        },
+        {
+          "title": "Tell the story aloud",
+          "body": [
+            "Show your picture. Tell your vocabulary story in 2–3 minutes.",
+            "Speak from key words. Your listener chooses one biology word and explains it in context."
+          ]
+        },
+        {
+          "title": "Check for meaning",
+          "body": [
+            "Ask: “Which part of the picture helped you understand that word?”",
+            "Listen to the answer and explain one word again if needed."
+          ]
+        }
+      ],
+      "deck": "weeks/Week-12.pptx"
+    },
+    {
+      "week": "13",
+      "topic": "Practise a conversation with the teaching assistant",
+      "kind": "lesson",
+      "lesson": "258200-05",
+      "guide": "13 Feb. Weeks 10–16 share one syllabus block. This week is a suggested way to schedule its tasks. Arrange the assessed TA contact according to the local booking system. The rubric separates attendance at a TA meeting from listening and speaking during the conversation.",
+      "slides": [
+        {
+          "title": "Clarify a question",
+          "body": [
+            "TA: “Where did you find the insect?” Student: “Could you say that again, please?”",
+            "TA: “Where did you see it?” Student: “I saw it under a leaf.”"
+          ]
+        },
+        {
+          "title": "Listen and ask back",
+          "body": [
+            "A asks about a biology observation. B answers in a sentence.",
+            "A asks about one detail. B checks the question if needed. Swap roles."
+          ]
+        },
+        {
+          "title": "Check your reply",
+          "body": [
+            "Did you answer the question your partner asked? Repeat the question in your own words before trying again."
+          ]
+        }
+      ],
+      "deck": "weeks/Week-13.pptx"
+    },
+    {
+      "week": "14",
+      "topic": "Plan a group roleplay",
+      "kind": "lesson",
+      "lesson": "258200-07",
+      "guide": "20 Feb. Weeks 10–16 share one syllabus block. This week is a suggested way to schedule its tasks. Prepare the assessed group roleplay and explain how teamwork is evaluated. Students can choose a different biology situation.",
+      "slides": [
+        {
+          "title": "Choose a situation",
+          "body": [
+            "Example: A class visits a school garden. One student describes an insect, another asks about its legs, and a third checks its location.",
+            "Decide what your group wants the audience to understand."
+          ]
+        },
+        {
+          "title": "Give every person a speaking role",
+          "body": [
+            "Plan at least three spoken turns for each person. Use notes with key words.",
+            "Include one question, one careful answer and one request for clarification."
+          ]
+        },
+        {
+          "title": "Test the opening",
+          "body": [
+            "Play the first minute. Ask a listener whose turn they heard and one fact they learned."
+          ]
+        }
+      ],
+      "deck": "weeks/Week-14.pptx"
+    },
+    {
+      "week": "15",
+      "topic": "Rehearse and improve the group conversation",
+      "kind": "lesson",
+      "lesson": "258200-07",
+      "guide": "27 Feb. Weeks 10–16 share one syllabus block. This week is a suggested way to schedule its tasks. Use the course performance criteria on pages 12–13. The roleplay duration criterion is at least ten minutes. Have each member practise a meaningful part.",
+      "slides": [
+        {
+          "title": "Listen for a useful reply",
+          "body": [
+            "“I saw two insects near the tree.” “Where exactly?” “On the lower leaves.”",
+            "Which reply gives the listener new information?"
+          ]
+        },
+        {
+          "title": "Run one rehearsal",
+          "body": [
+            "Time your group. Follow the planned roles and speak from key words.",
+            "One observer notes a clear question and a point where the meaning was hard to follow."
+          ]
+        },
+        {
+          "title": "Make one change",
+          "body": [
+            "Use the observer’s note. Try the unclear exchange again. Check that everyone has a speaking part."
+          ]
+        }
+      ],
+      "deck": "weeks/Week-15.pptx"
+    },
+    {
+      "week": "16",
+      "topic": "Group roleplay and teamwork reflection",
+      "kind": "lesson",
+      "lesson": "258200-07",
+      "guide": "6 Mar. Weeks 10–16 share one syllabus block. This week is a suggested way to schedule its tasks. One possible performance slot. Use the official roleplay rubric and the lecturer, self and peer teamwork criteria on pages 12–13.",
+      "slides": [
+        {
+          "title": "Perform the group roleplay",
+          "body": [
+            "Speak to your partners and respond to what they say.",
+            "Use a gesture or point to a picture when it helps your listener."
+          ]
+        },
+        {
+          "title": "Listen to another group",
+          "body": [
+            "Write down one question you heard and the speaker’s answer.",
+            "Share one example of clear communication."
+          ]
+        },
+        {
+          "title": "Reflect on teamwork",
+          "body": [
+            "Use a specific example: “I helped our group by …” or “My partner helped when …”.",
+            "Complete the teamwork evaluation in the way your lecturer gives you."
+          ]
+        }
+      ],
+      "deck": "weeks/Week-16.pptx"
+    },
+    {
+      "week": "17",
+      "topic": "Course post-test",
+      "kind": "assessment",
+      "lesson": null,
+      "guide": "17 Mar 2025 (B.E. 2568 in the source). Use the course team’s post-test in Google Forms. The source gives this date on page 8. The studio does not supply the official assessment items.",
+      "slides": [
+        {
+          "title": "Take the course post-test",
+          "body": [
+            "Use the form and instructions your lecturer gives you. Submit your own answers."
+          ]
+        },
+        {
+          "title": "After the assessment",
+          "body": [
+            "Read the speaking goal you wrote at the start.",
+            "Name one thing you can now do in English and one way to keep practising."
+          ]
+        }
+      ],
+      "deck": "weeks/Week-17.pptx"
+    }
+  ]
+}

@@ -1,0 +1,464 @@
+{
+  "course": "258202",
+  "title": "Communicative English for Research Presentation in Biology",
+  "reference": "Course plan, pp. 6–7 (16 scheduled weeks). Assessment plan, p. 8. Study examples and listener tasks in this guide are teaching suggestions.",
+  "weeks": [
+    {
+      "week": "1",
+      "topic": "Course orientation",
+      "kind": "lesson",
+      "lesson": "258202-01",
+      "guide": "Introduce the course tasks. Use this short activity to hear how students speak at the start of the course. Save their own goals for the last presentation day.",
+      "slides": [
+        {
+          "title": "What will I present?",
+          "body": [
+            "You will choose a biology article and tell the class about its question and results.",
+            "Today, introduce yourself and name one topic you want to explain."
+          ]
+        },
+        {
+          "title": "Meet a partner",
+          "body": [
+            "Model: “Hello. I am Mali. I would like to explain how birds find food.”",
+            "A: Introduce yourself. B: Listen and ask one question about the topic. Then swap."
+          ]
+        },
+        {
+          "title": "Set a goal",
+          "body": [
+            "Finish this sentence: “By the end of this course, I want to be able to …”",
+            "Keep your sentence. Bring it to your final presentation class."
+          ]
+        }
+      ],
+      "deck": "weeks/Week-01.pptx"
+    },
+    {
+      "week": "2",
+      "topic": "Welcome the audience and browse research articles",
+      "kind": "lesson",
+      "lesson": "258202-01",
+      "guide": "Use Chapters 1 and 2 together. Demonstrate browsing the university library’s article database and checking an English abstract. The course plan assigns Worksheet 2 for browsing articles; check the due date against the current class calendar.",
+      "slides": [
+        {
+          "title": "Open with a question",
+          "body": [
+            "“Good afternoon. I’m Niran. Why do bees visit some flowers more than others? Today I will share one study about this question.”",
+            "Which words welcome the audience? Which words name the topic?"
+          ]
+        },
+        {
+          "title": "Look for an article",
+          "body": [
+            "In the library database, search for a topic such as bees AND flowers. Read one English abstract.",
+            "A research article reports a study. A review brings together findings from several papers.",
+            "Find words that tell you which type you have."
+          ]
+        },
+        {
+          "title": "Keep a short record",
+          "body": [
+            "Write the title, authors, year, database and link. Name the article type and give one clue.",
+            "Tell a partner why this article may suit a short talk."
+          ]
+        },
+        {
+          "title": "Try your opening",
+          "body": [
+            "Use your own name, topic and research question. Speak for 20 seconds.",
+            "Your partner repeats the topic. If it is unclear, change one sentence and try again."
+          ]
+        }
+      ],
+      "deck": "weeks/Week-02.pptx"
+    },
+    {
+      "week": "3",
+      "topic": "Introduce today’s topic and use body language",
+      "kind": "lesson",
+      "lesson": "258202-03",
+      "guide": "Model the same opening twice, once looking only at notes and once looking up. Ask what helped the listener. Use an introduction checklist for Worksheet 1; confirm the current class deadline.",
+      "slides": [
+        {
+          "title": "Help people follow your opening",
+          "body": [
+            "“Today I will explain where the team saw the most birds.”",
+            "Pause after the topic. Look up as you say the final words."
+          ]
+        },
+        {
+          "title": "Try it in pairs",
+          "body": [
+            "A: Welcome the audience, say your name and state one topic.",
+            "B: Listen for the topic. Note one moment when a pause or gesture helped you.",
+            "Swap roles. Use a small card if you need a reminder."
+          ]
+        },
+        {
+          "title": "Check your opening",
+          "body": [
+            "Did listeners hear your name and topic? Did you speak at a pace they could follow?",
+            "Say the opening again and change one thing."
+          ]
+        }
+      ],
+      "deck": "weeks/Week-03.pptx"
+    },
+    {
+      "week": "4",
+      "topic": "Constitution Day",
+      "kind": "break",
+      "lesson": null,
+      "guide": "The course plan lists a holiday. No class activity is scheduled.",
+      "slides": []
+    },
+    {
+      "week": "5",
+      "topic": "Short communication • first scheduled session",
+      "kind": "assessment",
+      "lesson": "258202-03",
+      "guide": "Use the course short-communication rubric for the scheduled presenters. The syllabus specifies a 3–5 minute talk. The audience task below is an optional way to practise listening.",
+      "slides": [
+        {
+          "title": "Plan a 3–5 minute talk",
+          "body": [
+            "Choose one biology question. Set out the question, one example and your main point.",
+            "Example opening: “Why do leaves near the ground get less light?”"
+          ]
+        },
+        {
+          "title": "Speak to your group",
+          "body": [
+            "Use a simple picture or object if it helps explain your topic.",
+            "Speaker: Face the listeners. Look up after each main point.",
+            "Listeners: Write the main question and one detail you heard."
+          ]
+        },
+        {
+          "title": "Listen and respond",
+          "body": [
+            "Repeat one detail in your own words. Ask whether you understood it correctly.",
+            "Speaker: Choose one piece of feedback for your next talk."
+          ]
+        }
+      ],
+      "deck": "weeks/Week-05.pptx"
+    },
+    {
+      "week": "6",
+      "topic": "Short communication • second scheduled session",
+      "kind": "assessment",
+      "lesson": "258202-03",
+      "guide": "Continue the scheduled 3–5 minute talks using the same short-communication rubric. The class list determines who presents. The sample transition is a practice phrase.",
+      "slides": [
+        {
+          "title": "Connect two ideas",
+          "body": [
+            "Model: “First I will describe the pond. Next I will explain what we saw there.”",
+            "Practise one link between ideas before you speak."
+          ]
+        },
+        {
+          "title": "Give the short talk",
+          "body": [
+            "State the topic. Give an example. Close with one main point.",
+            "Listener: Note the example and the words that introduced it."
+          ]
+        },
+        {
+          "title": "Give specific feedback",
+          "body": [
+            "“I understood the example when you said …”",
+            "Ask one short follow-up question. Give the speaker time to answer."
+          ]
+        }
+      ],
+      "deck": "weeks/Week-06.pptx"
+    },
+    {
+      "week": "7",
+      "topic": "New Year’s Eve",
+      "kind": "break",
+      "lesson": null,
+      "guide": "The course plan lists a holiday. No class activity is scheduled.",
+      "slides": []
+    },
+    {
+      "week": "8",
+      "topic": "Presentation tools and approximate numbers",
+      "kind": "lesson",
+      "lesson": "258202-04",
+      "guide": "Draw or project the practice counts. Explain why a speaker can round a number while leaving the exact value on the slide. Ask students to choose a visual for one result.",
+      "slides": [
+        {
+          "title": "Make numbers easy to hear",
+          "body": [
+            "Practice counts: pond 49 birds, garden 21 birds.",
+            "“We saw about fifty birds at the pond and just over twenty in the garden.”"
+          ]
+        },
+        {
+          "title": "Build one clear visual",
+          "body": [
+            "Draw two bars using the counts. Label the places and the number of birds.",
+            "Give the graph a short title. Keep the exact counts visible."
+          ]
+        },
+        {
+          "title": "Explain it aloud",
+          "body": [
+            "Point to the larger bar. Use about, nearly or just over to describe one count.",
+            "Partner: Say the exact value from the visual. Does the spoken estimate fit?"
+          ]
+        }
+      ],
+      "deck": "weeks/Week-08.pptx"
+    },
+    {
+      "week": "9",
+      "topic": "Midterm exam • Worksheets 1 and 2",
+      "kind": "assessment",
+      "lesson": "258202-02",
+      "guide": "The course plan names Worksheets 1 and 2 at midterm. Use the lecturer’s assigned worksheets and current assessment directions. The prompts below are optional preparation.",
+      "slides": [
+        {
+          "title": "Review your introduction",
+          "body": [
+            "Read your opening aloud. Can a listener identify who you are and the topic?",
+            "Use your introduction checklist to identify one change."
+          ]
+        },
+        {
+          "title": "Review your article record",
+          "body": [
+            "Find the English title, authors, year and link on your selected source.",
+            "Point to one clue that shows what kind of article it is."
+          ]
+        }
+      ],
+      "deck": "weeks/Week-09.pptx"
+    },
+    {
+      "week": "10",
+      "topic": "Describe and interpret graphs and tables",
+      "kind": "lesson",
+      "lesson": "258202-04",
+      "guide": "Use these invented counts for guided practice before Worksheet 3. Ask students to keep the time and unit with the numbers and distinguish an observation from a possible explanation.",
+      "slides": [
+        {
+          "title": "Read the labels",
+          "body": [
+            "Practice data: In one 10-minute count per site, a class saw 12 birds at the pond, 8 in the garden and 4 on the field.",
+            "What was counted? For how long at each site?"
+          ]
+        },
+        {
+          "title": "Say what the numbers show",
+          "body": [
+            "“In these counts, we saw eight more birds at the pond than on the field.”",
+            "Point to the two values that support the sentence."
+          ]
+        },
+        {
+          "title": "Explain a limit",
+          "body": [
+            "One count at each site cannot tell us which site usually has the most birds.",
+            "With a partner, compare the garden and field. Name one more observation you would want."
+          ]
+        }
+      ],
+      "deck": "weeks/Week-10.pptx"
+    },
+    {
+      "week": "11",
+      "topic": "Summarize and close a talk",
+      "kind": "lesson",
+      "lesson": "258202-05",
+      "guide": "Demonstrate returning to the opening question. Students can practise with the example counts, then build a close for their own article.",
+      "slides": [
+        {
+          "title": "Return to your question",
+          "body": [
+            "Opening: “Where did we see the most birds?”",
+            "Closing: “To sum up, the pond had the largest count on our visit. We would need more visits to see if that pattern lasts.”"
+          ]
+        },
+        {
+          "title": "Build a short ending",
+          "body": [
+            "Write three notes: the question, the main answer, one limit.",
+            "Speak from the notes and finish with an invitation for questions."
+          ]
+        },
+        {
+          "title": "Listen for the answer",
+          "body": [
+            "Partner: Say the main answer back in one sentence.",
+            "Speaker: If the answer was unclear, shorten your ending and try again."
+          ]
+        }
+      ],
+      "deck": "weeks/Week-11.pptx"
+    },
+    {
+      "week": "12",
+      "topic": "Handle questions from the audience",
+      "kind": "lesson",
+      "lesson": "258202-06",
+      "guide": "Model asking for clarification and giving an honest answer when evidence is limited. Use the example first, then practise with the students’ own articles.",
+      "slides": [
+        {
+          "title": "Make sure you heard the question",
+          "body": [
+            "Audience: “Did you count the birds on more than one day?”",
+            "Speaker: “Do you mean how many days we visited? In this example, we visited once.”"
+          ]
+        },
+        {
+          "title": "Answer with evidence",
+          "body": [
+            "If the article gives the answer, point to the result or section.",
+            "If it does not, try “The paper does not give that information. We would need …”"
+          ]
+        },
+        {
+          "title": "Practise two questions",
+          "body": [
+            "A: Ask about one result. B: Repeat the question briefly and answer.",
+            "Now ask a question the article does not answer. Swap roles."
+          ]
+        }
+      ],
+      "deck": "weeks/Week-12.pptx"
+    },
+    {
+      "week": "13",
+      "topic": "Student article presentations",
+      "kind": "assessment",
+      "lesson": "258202-07",
+      "guide": "The course plan schedules student presentations and rubric scoring in Weeks 13–16. Apply the same assigned rubric across all four sessions. The listening focus is a suggested activity for classmates. See the assessment plan on page 8 for the article-presentation criteria.",
+      "slides": [
+        {
+          "title": "Present your article",
+          "body": [
+            "Name the article and its question. Explain the study in your own words.",
+            "Use an accurate figure or example. Close with the main result and invite questions."
+          ]
+        },
+        {
+          "title": "Ask and answer",
+          "body": [
+            "Listener: Ask about a result the speaker showed.",
+            "A useful question is “Which result supports that idea?”",
+            "Speaker: Point to the evidence or explain what the paper leaves open."
+          ]
+        },
+        {
+          "title": "Listen for the research question",
+          "body": [
+            "What question did the authors ask? Which sentence in the talk made it clear?",
+            "Share one useful detail with a partner after the talk."
+          ]
+        }
+      ],
+      "deck": "weeks/Week-13.pptx"
+    },
+    {
+      "week": "14",
+      "topic": "Student article presentations",
+      "kind": "assessment",
+      "lesson": "258202-07",
+      "guide": "The course plan schedules student presentations and rubric scoring in Weeks 13–16. Apply the same assigned rubric across all four sessions. The listening focus is a suggested activity for classmates. See the assessment plan on page 8 for the article-presentation criteria.",
+      "slides": [
+        {
+          "title": "Present your article",
+          "body": [
+            "Name the article and its question. Explain the study in your own words.",
+            "Use an accurate figure or example. Close with the main result and invite questions."
+          ]
+        },
+        {
+          "title": "Ask and answer",
+          "body": [
+            "Listener: Ask about a result the speaker showed.",
+            "A useful question is “Which result supports that idea?”",
+            "Speaker: Point to the evidence or explain what the paper leaves open."
+          ]
+        },
+        {
+          "title": "Listen for evidence",
+          "body": [
+            "Which number or observation supported the speaker’s main point? Tell the speaker the detail you heard.",
+            "Share one useful detail with a partner after the talk."
+          ]
+        }
+      ],
+      "deck": "weeks/Week-14.pptx"
+    },
+    {
+      "week": "15",
+      "topic": "Student article presentations",
+      "kind": "assessment",
+      "lesson": "258202-07",
+      "guide": "The course plan schedules student presentations and rubric scoring in Weeks 13–16. Apply the same assigned rubric across all four sessions. The listening focus is a suggested activity for classmates. See the assessment plan on page 8 for the article-presentation criteria.",
+      "slides": [
+        {
+          "title": "Present your article",
+          "body": [
+            "Name the article and its question. Explain the study in your own words.",
+            "Use an accurate figure or example. Close with the main result and invite questions."
+          ]
+        },
+        {
+          "title": "Ask and answer",
+          "body": [
+            "Listener: Ask about a result the speaker showed.",
+            "A useful question is “Which result supports that idea?”",
+            "Speaker: Point to the evidence or explain what the paper leaves open."
+          ]
+        },
+        {
+          "title": "Listen for a limit",
+          "body": [
+            "What can the audience conclude from this study? Write one question about what remains uncertain.",
+            "Share one useful detail with a partner after the talk."
+          ]
+        }
+      ],
+      "deck": "weeks/Week-15.pptx"
+    },
+    {
+      "week": "16",
+      "topic": "Student article presentations",
+      "kind": "assessment",
+      "lesson": "258202-07",
+      "guide": "The course plan schedules student presentations and rubric scoring in Weeks 13–16. Apply the same assigned rubric across all four sessions. The listening focus is a suggested activity for classmates. See the assessment plan on page 8 for the article-presentation criteria.",
+      "slides": [
+        {
+          "title": "Present your article",
+          "body": [
+            "Name the article and its question. Explain the study in your own words.",
+            "Use an accurate figure or example. Close with the main result and invite questions."
+          ]
+        },
+        {
+          "title": "Ask and answer",
+          "body": [
+            "Listener: Ask about a result the speaker showed.",
+            "A useful question is “Which result supports that idea?”",
+            "Speaker: Point to the evidence or explain what the paper leaves open."
+          ]
+        },
+        {
+          "title": "Reflect on progress",
+          "body": [
+            "Find your goal from the first class. Describe one change in your speaking or listening and give an example.",
+            "Share one useful detail with a partner after the talk."
+          ]
+        }
+      ],
+      "deck": "weeks/Week-16.pptx"
+    }
+  ]
+}
