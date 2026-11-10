@@ -1,0 +1,42 @@
+{
+  "id": "258200-01",
+  "course": "258200",
+  "number": 1,
+  "title": "Hello, Biology! Introduce Yourself and Your Field",
+  "objective": "Students start using English to introduce themselves, biology interests, and simple study goals.",
+  "ppt": "original.pptx",
+  "pdf": "chapter.pdf",
+  "syllabus": "../../courses/258200/syllabus.pdf",
+  "vocabulary": [
+    "biology",
+    "student",
+    "field",
+    "interested in",
+    "organism",
+    "cell",
+    "DNA",
+    "microscope",
+    "laboratory",
+    "research"
+  ],
+  "phrases": [
+    "My name is ...",
+    "I study biology because ...",
+    "I am interested in ...",
+    "Could you tell me about ...?"
+  ],
+  "outcomes": [
+    "Greet classmates and a teacher politely.",
+    "Introduce name, year, field, and biology interest.",
+    "Use simple sentences with be, study, like, and interested in.",
+    "Ask one friendly follow-up question."
+  ],
+  "activity": "Introduce yourself. Ask about one thing your partner says.",
+  "example": "Two students meet before a biology lab. One says: “I am interested in DNA because it explains how living things pass traits to their offspring.”",
+  "teachingDeck": "teaching.pptx",
+  "speakingOutline": "speaking-outline.json",
+  "teachingOutline": "teaching-outline.json",
+  "worksheet": "student.docx",
+  "key": "lecturer-key.docx",
+  "slideCount": 6
+}

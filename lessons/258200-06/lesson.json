@@ -1,0 +1,42 @@
+{
+  "id": "258200-06",
+  "course": "258200",
+  "number": 6,
+  "title": "Tell a Biology Story in Two Minutes",
+  "objective": "Students turn a biology article, video, picture, or experience into a short spoken story.",
+  "ppt": "original.pptx",
+  "pdf": "chapter.pdf",
+  "syllabus": "../../courses/258200/syllabus.pdf",
+  "vocabulary": [
+    "story",
+    "topic",
+    "first",
+    "next",
+    "then",
+    "finally",
+    "interesting",
+    "because",
+    "example",
+    "important"
+  ],
+  "phrases": [
+    "Today I want to share ...",
+    "First, ...",
+    "This is important because ...",
+    "My favorite part is ..."
+  ],
+  "outcomes": [
+    "Organize a short talk with beginning, middle, and ending.",
+    "Use simple connectors: first, next, then, finally.",
+    "Explain why a topic is interesting.",
+    "Speak for two minutes with notes, not a full script."
+  ],
+  "activity": "Tell a short story from six key words. Listen for what changed.",
+  "example": "A student tells a story about coral bleaching: what coral is, what problem happens, and why temperature matters.",
+  "teachingDeck": "teaching.pptx",
+  "speakingOutline": "speaking-outline.json",
+  "teachingOutline": "teaching-outline.json",
+  "worksheet": "student.docx",
+  "key": "lecturer-key.docx",
+  "slideCount": 6
+}

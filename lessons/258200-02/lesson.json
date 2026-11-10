@@ -1,0 +1,42 @@
+{
+  "id": "258200-02",
+  "course": "258200",
+  "number": 2,
+  "title": "Say It Clearly: Pronunciation for Biology Words",
+  "objective": "Students learn stress, syllables, and slow practice for common biology terms.",
+  "ppt": "original.pptx",
+  "pdf": "chapter.pdf",
+  "syllabus": "../../courses/258200/syllabus.pdf",
+  "vocabulary": [
+    "biology",
+    "photosynthesis",
+    "chromosome",
+    "organism",
+    "temperature",
+    "experiment",
+    "structure",
+    "function",
+    "bacteria",
+    "through"
+  ],
+  "phrases": [
+    "Listen first.",
+    "Say it slowly.",
+    "Put the stress here.",
+    "Could you repeat the word?"
+  ],
+  "outcomes": [
+    "Divide long biology words into syllables.",
+    "Notice word stress in academic words.",
+    "Practice difficult sounds in biology vocabulary.",
+    "Say model sentences slowly and clearly."
+  ],
+  "activity": "Hear which part of a biology word is stressed. Say the word in a sentence.",
+  "example": "The word “photosynthesis” becomes pho-to-SYN-the-sis. Students practice it in the sentence: “Photosynthesis occurs in plants.”",
+  "teachingDeck": "teaching.pptx",
+  "speakingOutline": "speaking-outline.json",
+  "teachingOutline": "teaching-outline.json",
+  "worksheet": "student.docx",
+  "key": "lecturer-key.docx",
+  "slideCount": 6
+}

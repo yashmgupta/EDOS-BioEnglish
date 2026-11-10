@@ -1,0 +1,85 @@
+{
+  "version": 1,
+  "title": "Build Biology Sentences: Structure and Function",
+  "course": "258200",
+  "lesson": "258200-03",
+  "objective": "Students connect biological structures to their functions using reliable sentence patterns.",
+  "minutes": 20,
+  "level": "Guided",
+  "type": "Exercise",
+  "form": "A",
+  "context": "A plant cell has a cell wall. A cell wall helps support the cell.",
+  "items": [
+    {
+      "prompt": "Use “has” to say what the structure contains.",
+      "answer": "A plant cell has a cell wall.",
+      "hint": "Use: A ___ has ___.",
+      "marks": 4
+    },
+    {
+      "prompt": "Explain one job of the part.",
+      "answer": "The wall helps support the cell.",
+      "hint": "Try: Its job is to ___.",
+      "marks": 3
+    },
+    {
+      "prompt": "Join the part and its job in a sentence with “because”.",
+      "answer": "A cell wall is useful because it supports the cell.",
+      "hint": "Use: ___ is useful because ___.",
+      "marks": 3
+    }
+  ],
+  "slides": [
+    {
+      "title": "Today’s goal",
+      "body": [
+        "Students connect biological structures to their functions using reliable sentence patterns."
+      ]
+    },
+    {
+      "title": "Words to know",
+      "body": [
+        "cell",
+        "nucleus",
+        "membrane",
+        "chloroplast",
+        "mitochondria",
+        "contain"
+      ]
+    },
+    {
+      "title": "Read and think",
+      "body": [
+        "A plant cell has a cell wall. A cell wall helps support the cell."
+      ]
+    },
+    {
+      "title": "Task 1",
+      "body": [
+        "Use “has” to say what the structure contains.",
+        "Use: A ___ has ___."
+      ]
+    },
+    {
+      "title": "Task 2",
+      "body": [
+        "Explain one job of the part.",
+        "Try: Its job is to ___."
+      ]
+    },
+    {
+      "title": "Task 3",
+      "body": [
+        "Join the part and its job in a sentence with “because”.",
+        "Use: ___ is useful because ___."
+      ]
+    },
+    {
+      "title": "Before you finish",
+      "body": [
+        "Share one answer with a partner.",
+        "Which English phrase helped you today?"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,85 @@
+{
+  "version": 1,
+  "title": "Hello, Biology! Introduce Yourself and Your Field",
+  "course": "258200",
+  "lesson": "258200-01",
+  "objective": "Students start using English to introduce themselves, biology interests, and simple study goals.",
+  "minutes": 20,
+  "level": "Guided",
+  "type": "Exercise",
+  "form": "B",
+  "context": "You meet a new student in a campus garden. You like butterflies.",
+  "items": [
+    {
+      "prompt": "Greet your partner. Say your name and what you study.",
+      "answer": "Accept a polite greeting, a name and a field of study.",
+      "hint": "Try: Hello, my name is ___. I study ___.",
+      "marks": 4
+    },
+    {
+      "prompt": "Say what interests you and give one reason.",
+      "answer": "Example: I like butterflies because their wings have different colours.",
+      "hint": "Use: I am interested in ___ because ___.",
+      "marks": 3
+    },
+    {
+      "prompt": "Ask one question about your partner’s interest. Wait for an answer.",
+      "answer": "Accept a clear, relevant question and time for a reply.",
+      "hint": "Start with What or Why.",
+      "marks": 3
+    }
+  ],
+  "slides": [
+    {
+      "title": "Today’s goal",
+      "body": [
+        "Students start using English to introduce themselves, biology interests, and simple study goals."
+      ]
+    },
+    {
+      "title": "Words to know",
+      "body": [
+        "biology",
+        "student",
+        "field",
+        "interested in",
+        "organism",
+        "cell"
+      ]
+    },
+    {
+      "title": "Read and think",
+      "body": [
+        "You meet a new student in a campus garden. You like butterflies."
+      ]
+    },
+    {
+      "title": "Task 1",
+      "body": [
+        "Greet your partner. Say your name and what you study.",
+        "Try: Hello, my name is ___. I study ___."
+      ]
+    },
+    {
+      "title": "Task 2",
+      "body": [
+        "Say what interests you and give one reason.",
+        "Use: I am interested in ___ because ___."
+      ]
+    },
+    {
+      "title": "Task 3",
+      "body": [
+        "Ask one question about your partner’s interest. Wait for an answer.",
+        "Start with What or Why."
+      ]
+    },
+    {
+      "title": "Before you finish",
+      "body": [
+        "Share one answer with a partner.",
+        "Which English phrase helped you today?"
+      ]
+    }
+  ]
+}

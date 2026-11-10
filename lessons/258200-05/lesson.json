@@ -1,0 +1,42 @@
+{
+  "id": "258200-05",
+  "course": "258200",
+  "number": 5,
+  "title": "Ask, Listen and Respond in a Biology Conversation",
+  "objective": "Students practice question forms, clarification, and polite repair when they do not understand.",
+  "ppt": "original.pptx",
+  "pdf": "chapter.pdf",
+  "syllabus": "../../courses/258200/syllabus.pdf",
+  "vocabulary": [
+    "question",
+    "answer",
+    "repeat",
+    "explain",
+    "meaning",
+    "observe",
+    "result",
+    "sample",
+    "compare",
+    "difference"
+  ],
+  "phrases": [
+    "What did you observe?",
+    "Could you repeat that, please?",
+    "What does ... mean?",
+    "I think the result shows ..."
+  ],
+  "outcomes": [
+    "Ask simple biology questions.",
+    "Request repetition or slower speech politely.",
+    "Answer with a complete but simple sentence.",
+    "Keep a conversation going for one minute."
+  ],
+  "activity": "Ask a question, check what you heard and ask one more.",
+  "example": "A lab partner asks, “What did you observe?” A useful answer is, “We observed that bacterial growth was higher at 30 degrees Celsius.”",
+  "teachingDeck": "teaching.pptx",
+  "speakingOutline": "speaking-outline.json",
+  "teachingOutline": "teaching-outline.json",
+  "worksheet": "student.docx",
+  "key": "lecturer-key.docx",
+  "slideCount": 6
+}

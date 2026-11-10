@@ -1,0 +1,51 @@
+{
+  "title": "Explain a result to a classmate",
+  "objective": "Use two numbers to explain a result and answer a question.",
+  "slides": [
+    {
+      "title": "Read the class counts",
+      "body": [
+        "Practice data: students counted birds for ten minutes per place.",
+        "Pond: 12 birds. Garden: 8 birds. Field: 4 birds.",
+        "Point to a place. Say its name, its count and the count time."
+      ]
+    },
+    {
+      "title": "Hear a short conversation",
+      "body": [
+        "A: Hello. Could you tell me about the garden?",
+        "B: We saw eight birds in ten minutes.",
+        "A: Did you see more there than in the field?",
+        "B: Yes. We saw four birds in the field.",
+        "A: Thank you. That helps."
+      ]
+    },
+    {
+      "title": "Take two roles",
+      "body": [
+        "Bird counts in ten minutes: pond 12, garden 8, field 4.",
+        "A: You help teach the class. Greet B and ask about the pond.",
+        "B: Compare the pond and field. Use the two counts.",
+        "A: Check one number. Then ask about a different place.",
+        "B: Answer and close the conversation politely."
+      ]
+    },
+    {
+      "title": "Swap roles and try again",
+      "body": [
+        "Practice counts: pond 7, garden 9, field 3 birds.",
+        "Use the same ten-minute count time.",
+        "New helper: Ask about the garden and field.",
+        "Listen for both counts. Ask again if one is unclear."
+      ]
+    },
+    {
+      "title": "Give useful feedback",
+      "body": [
+        "Say one thing your partner did clearly. Give an example.",
+        "I understood the comparison when you said ___.",
+        "Choose one sentence to make clearer. Say it to your partner."
+      ]
+    }
+  ]
+}

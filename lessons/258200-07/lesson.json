@@ -1,0 +1,42 @@
+{
+  "id": "258200-07",
+  "course": "258200",
+  "number": 7,
+  "title": "Biology Conversation Challenge: Roleplay and TA Practice",
+  "objective": "Students combine vocabulary, pronunciation, questions, and confidence in practical speaking tasks.",
+  "ppt": "original.pptx",
+  "pdf": "chapter.pdf",
+  "syllabus": "../../courses/258200/syllabus.pdf",
+  "vocabulary": [
+    "conversation",
+    "roleplay",
+    "partner",
+    "confidence",
+    "clarify",
+    "opinion",
+    "evidence",
+    "suggest",
+    "practice",
+    "feedback"
+  ],
+  "phrases": [
+    "Let me explain ...",
+    "In my opinion, ...",
+    "The evidence shows ...",
+    "Thank you for your feedback."
+  ],
+  "outcomes": [
+    "Start and close a conversation politely.",
+    "Describe a biology topic using clear sentences.",
+    "Ask and answer follow-up questions.",
+    "Reflect on speaking strengths and next steps."
+  ],
+  "activity": "Use two numbers to explain a result and answer a question.",
+  "example": "In a TA conversation, a student explains: “The graph shows that plant growth increased in the light treatment compared with the dark treatment.”",
+  "teachingDeck": "teaching.pptx",
+  "speakingOutline": "speaking-outline.json",
+  "teachingOutline": "teaching-outline.json",
+  "worksheet": "student.docx",
+  "key": "lecturer-key.docx",
+  "slideCount": 6
+}

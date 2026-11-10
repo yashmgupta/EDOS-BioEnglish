@@ -1,0 +1,85 @@
+{
+  "version": 1,
+  "title": "Say It Clearly: Pronunciation for Biology Words",
+  "course": "258200",
+  "lesson": "258200-02",
+  "objective": "Students learn stress, syllables, and slow practice for common biology terms.",
+  "minutes": 20,
+  "level": "Guided",
+  "type": "Exercise",
+  "form": "A",
+  "context": "Practice words from a plant class: biology, microscope, leaf.",
+  "items": [
+    {
+      "prompt": "Say the first word in parts. Say it again with the stressed part louder.",
+      "answer": "biology: bi-OL-o-gy; second syllable stressed.",
+      "hint": "Tap once for each syllable.",
+      "marks": 4
+    },
+    {
+      "prompt": "Say the second word slowly. Ask a partner to repeat it.",
+      "answer": "Listen for first-syllable stress in microscope; accept clear pronunciation across accents.",
+      "hint": "Say the whole word once before your partner speaks.",
+      "marks": 3
+    },
+    {
+      "prompt": "Use the last word in a short spoken sentence.",
+      "answer": "Example: The leaf is green.",
+      "hint": "Say one idea clearly.",
+      "marks": 3
+    }
+  ],
+  "slides": [
+    {
+      "title": "Today’s goal",
+      "body": [
+        "Students learn stress, syllables, and slow practice for common biology terms."
+      ]
+    },
+    {
+      "title": "Words to know",
+      "body": [
+        "biology",
+        "photosynthesis",
+        "chromosome",
+        "organism",
+        "temperature",
+        "experiment"
+      ]
+    },
+    {
+      "title": "Read and think",
+      "body": [
+        "Practice words from a plant class: biology, microscope, leaf."
+      ]
+    },
+    {
+      "title": "Task 1",
+      "body": [
+        "Say the first word in parts. Say it again with the stressed part louder.",
+        "Tap once for each syllable."
+      ]
+    },
+    {
+      "title": "Task 2",
+      "body": [
+        "Say the second word slowly. Ask a partner to repeat it.",
+        "Say the whole word once before your partner speaks."
+      ]
+    },
+    {
+      "title": "Task 3",
+      "body": [
+        "Use the last word in a short spoken sentence.",
+        "Say one idea clearly."
+      ]
+    },
+    {
+      "title": "Before you finish",
+      "body": [
+        "Share one answer with a partner.",
+        "Which English phrase helped you today?"
+      ]
+    }
+  ]
+}

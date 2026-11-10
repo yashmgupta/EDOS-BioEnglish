@@ -1,0 +1,85 @@
+{
+  "version": 1,
+  "title": "Tell a Biology Story in Two Minutes",
+  "course": "258200",
+  "lesson": "258200-06",
+  "objective": "Students turn a biology article, video, picture, or experience into a short spoken story.",
+  "minutes": 20,
+  "level": "Guided",
+  "type": "Exercise",
+  "form": "B",
+  "context": "Story notes: walked to the garden; heard buzzing; saw a bee land on a flower; felt curious.",
+  "items": [
+    {
+      "prompt": "Choose up to six key words for your story.",
+      "answer": "Accept key words such as garden, walked, buzzing, bee, flower, curious.",
+      "hint": "Use short notes.",
+      "marks": 4
+    },
+    {
+      "prompt": "Tell your partner what happened. Use three time words.",
+      "answer": "Listen for a clear beginning, middle and end with three suitable linking words.",
+      "hint": "Try: First, next, finally.",
+      "marks": 3
+    },
+    {
+      "prompt": "End by saying why the event interested you.",
+      "answer": "Accept one personal reason linked to the story.",
+      "hint": "Start with: This interested me because ___.",
+      "marks": 3
+    }
+  ],
+  "slides": [
+    {
+      "title": "Today’s goal",
+      "body": [
+        "Students turn a biology article, video, picture, or experience into a short spoken story."
+      ]
+    },
+    {
+      "title": "Words to know",
+      "body": [
+        "story",
+        "topic",
+        "first",
+        "next",
+        "then",
+        "finally"
+      ]
+    },
+    {
+      "title": "Read and think",
+      "body": [
+        "Story notes: walked to the garden; heard buzzing; saw a bee land on a flower; felt curious."
+      ]
+    },
+    {
+      "title": "Task 1",
+      "body": [
+        "Choose up to six key words for your story.",
+        "Use short notes."
+      ]
+    },
+    {
+      "title": "Task 2",
+      "body": [
+        "Tell your partner what happened. Use three time words.",
+        "Try: First, next, finally."
+      ]
+    },
+    {
+      "title": "Task 3",
+      "body": [
+        "End by saying why the event interested you.",
+        "Start with: This interested me because ___."
+      ]
+    },
+    {
+      "title": "Before you finish",
+      "body": [
+        "Share one answer with a partner.",
+        "Which English phrase helped you today?"
+      ]
+    }
+  ]
+}

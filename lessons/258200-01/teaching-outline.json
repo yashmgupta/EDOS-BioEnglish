@@ -1,0 +1,47 @@
+{
+  "title": "Meet your biology partner",
+  "objective": "Introduce yourself. Ask about one thing your partner says.",
+  "slides": [
+    {
+      "title": "Listen to Mali",
+      "body": [
+        "Mali: “Hi, I’m Mali. I study biology. I like frogs.”",
+        "Nok: “Why do you like frogs?”",
+        "Mali: “I hear them near my home after rain.”",
+        "Which word helped Nok choose her question?"
+      ]
+    },
+    {
+      "title": "Build your introduction",
+      "body": [
+        "“Hi, I’m ___. I’m a ___-year biology student.”",
+        "“I’m interested in ___ because ___.”",
+        "Try it with a topic you know: birds, plants, or insects."
+      ]
+    },
+    {
+      "title": "Ask about what you heard",
+      "body": [
+        "You hear “I like watching birds in the morning.”",
+        "Choose a question about the birds. Start with Where, When, or Why.",
+        "Ask it aloud. Your partner gives one detail."
+      ]
+    },
+    {
+      "title": "Meet a new partner",
+      "body": [
+        "A: Introduce yourself in 30 seconds. Include a topic you like.",
+        "B: Listen. Ask one question about that topic.",
+        "A: Answer the question. Then swap roles."
+      ]
+    },
+    {
+      "title": "Introduce your partner",
+      "body": [
+        "Tell another pair: “This is ___. They like ___ because ___.”",
+        "Your partner listens. Did you remember the topic and reason?",
+        "If a detail is missing, ask for it and try again."
+      ]
+    }
+  ]
+}

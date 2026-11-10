@@ -1,0 +1,85 @@
+{
+  "version": 1,
+  "title": "Biology Conversation Challenge: Roleplay and TA Practice",
+  "course": "258200",
+  "lesson": "258200-07",
+  "objective": "Students combine vocabulary, pronunciation, questions, and confidence in practical speaking tasks.",
+  "minutes": 20,
+  "level": "Guided",
+  "type": "Exercise",
+  "form": "B",
+  "context": "A visitor asks a teaching assistant about a campus garden. The sign lists two animals: butterflies and bees.",
+  "items": [
+    {
+      "prompt": "Visitor: greet the assistant and ask what lives here.",
+      "answer": "Accept a polite greeting and a clear question about the place.",
+      "hint": "Try: Hello. Which animals can I see here?",
+      "marks": 4
+    },
+    {
+      "prompt": "Assistant: name both animals. Visitor: ask a follow-up question.",
+      "answer": "Answer mentions butterflies and bees; question fits either animal.",
+      "hint": "Ask Where, When, or How many.",
+      "marks": 3
+    },
+    {
+      "prompt": "Close the conversation. Write one thing you did well and one thing to practise.",
+      "answer": "Accept a polite closing and one specific strength and next step.",
+      "hint": "Try: Thank you. Next time I will ___.",
+      "marks": 3
+    }
+  ],
+  "slides": [
+    {
+      "title": "Today’s goal",
+      "body": [
+        "Students combine vocabulary, pronunciation, questions, and confidence in practical speaking tasks."
+      ]
+    },
+    {
+      "title": "Words to know",
+      "body": [
+        "conversation",
+        "roleplay",
+        "partner",
+        "confidence",
+        "clarify",
+        "opinion"
+      ]
+    },
+    {
+      "title": "Read and think",
+      "body": [
+        "A visitor asks a teaching assistant about a campus garden. The sign lists two animals: butterflies and bees."
+      ]
+    },
+    {
+      "title": "Task 1",
+      "body": [
+        "Visitor: greet the assistant and ask what lives here.",
+        "Try: Hello. Which animals can I see here?"
+      ]
+    },
+    {
+      "title": "Task 2",
+      "body": [
+        "Assistant: name both animals. Visitor: ask a follow-up question.",
+        "Ask Where, When, or How many."
+      ]
+    },
+    {
+      "title": "Task 3",
+      "body": [
+        "Close the conversation. Write one thing you did well and one thing to practise.",
+        "Try: Thank you. Next time I will ___."
+      ]
+    },
+    {
+      "title": "Before you finish",
+      "body": [
+        "Share one answer with a partner.",
+        "Which English phrase helped you today?"
+      ]
+    }
+  ]
+}

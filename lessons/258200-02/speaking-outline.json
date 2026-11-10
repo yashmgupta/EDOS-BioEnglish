@@ -1,0 +1,46 @@
+{
+  "title": "Hear the strong beat in a word",
+  "objective": "Hear which part of a biology word is stressed. Say the word in a sentence.",
+  "slides": [
+    {
+      "title": "Listen for the strong beat",
+      "body": [
+        "Listen as your lecturer says microscope twice.",
+        "Tap each part. Tap harder when you hear the strong beat.",
+        "Which part sounded strongest: first, second, or third?"
+      ]
+    },
+    {
+      "title": "Tap these three words",
+      "body": [
+        "Big letters show the strongest part.",
+        "MI-cro-scope     •     bi-OL-o-gy     •     pho-to-SYN-the-sis",
+        "Repeat each word. Tap on the strong part."
+      ]
+    },
+    {
+      "title": "Hear the word in a sentence",
+      "body": [
+        "“I use a microscope to look at cells.”",
+        "Say microscope slowly. Now say the whole sentence.",
+        "Your partner repeats the word they heard."
+      ]
+    },
+    {
+      "title": "Can your partner hear it?",
+      "body": [
+        "A: Choose one of the three words. Say it without pointing.",
+        "B: Repeat the word and tap its strong part.",
+        "A: Did B hear you clearly? Swap roles."
+      ]
+    },
+    {
+      "title": "Leave with one clear sentence",
+      "body": [
+        "Choose a word: microscope, biology, or photosynthesis.",
+        "Say a new sentence with it. Your partner names the word.",
+        "If they ask “Could you repeat that?”, try again slowly."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "title": "Which cell part am I describing?",
+  "objective": "Describe the job of a cell part. Identify the part from a partner’s clue.",
+  "slides": [
+    {
+      "title": "Meet three parts of a leaf cell",
+      "body": [
+        "Nucleus — contains most of the cell’s DNA.",
+        "Chloroplast — uses light to help the cell make sugar.",
+        "Cell membrane — controls what enters and leaves the cell."
+      ]
+    },
+    {
+      "title": "Listen to a clue",
+      "body": [
+        "Mali: “This part uses light to help the cell make sugar.”",
+        "Nok: “Is it a chloroplast?”",
+        "Mali: “Yes! Which words helped you guess?”",
+        "Read the dialogue once with a partner."
+      ]
+    },
+    {
+      "title": "Turn a clue into a sentence",
+      "body": [
+        "“This part controls what enters and leaves the cell.”",
+        "“I think it is the ___ because ___.”",
+        "Fill the gaps aloud. Use the clue to give your reason."
+      ]
+    },
+    {
+      "title": "Give your partner a mystery part",
+      "body": [
+        "A: Choose a cell part secretly. Give one clue about its job.",
+        "B: Name the part. Say which words helped you guess.",
+        "A: Say yes or give a new clue. Then swap roles."
+      ]
+    },
+    {
+      "title": "One part, one job",
+      "body": [
+        "Choose a part you did not describe in the last round.",
+        "Say its name and its job in a complete sentence.",
+        "Your partner listens. Did the part and its job match?"
+      ]
+    }
+  ]
+}

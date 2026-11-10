@@ -1,0 +1,42 @@
+{
+  "id": "258200-04",
+  "course": "258200",
+  "number": 4,
+  "title": "Describe What You See: Images, Diagrams and Microscopes",
+  "objective": "Students describe visual biology information without memorizing a long paragraph.",
+  "ppt": "original.pptx",
+  "pdf": "chapter.pdf",
+  "syllabus": "../../courses/258200/syllabus.pdf",
+  "vocabulary": [
+    "observe",
+    "visible",
+    "darker",
+    "round",
+    "center",
+    "inside",
+    "surrounding",
+    "several",
+    "arranged",
+    "microscope"
+  ],
+  "phrases": [
+    "I can see ...",
+    "There are several ...",
+    "It appears ...",
+    "The darker structure may be ..."
+  ],
+  "outcomes": [
+    "Use there is / there are to describe images.",
+    "Use location words such as inside, near, around, and at the center.",
+    "Describe size, shape, color, and number.",
+    "Make a short observation statement."
+  ],
+  "activity": "Help your partner draw what you see.",
+  "example": "When I looked through the microscope, I could see many small cells arranged close together, and most cells had a darker structure near the center.",
+  "teachingDeck": "teaching.pptx",
+  "speakingOutline": "speaking-outline.json",
+  "teachingOutline": "teaching-outline.json",
+  "worksheet": "student.docx",
+  "key": "lecturer-key.docx",
+  "slideCount": 6
+}

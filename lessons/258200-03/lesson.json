@@ -1,0 +1,42 @@
+{
+  "id": "258200-03",
+  "course": "258200",
+  "number": 3,
+  "title": "Build Biology Sentences: Structure and Function",
+  "objective": "Students connect biological structures to their functions using reliable sentence patterns.",
+  "ppt": "original.pptx",
+  "pdf": "chapter.pdf",
+  "syllabus": "../../courses/258200/syllabus.pdf",
+  "vocabulary": [
+    "cell",
+    "nucleus",
+    "membrane",
+    "chloroplast",
+    "mitochondria",
+    "contain",
+    "consist of",
+    "located in",
+    "function",
+    "control"
+  ],
+  "phrases": [
+    "The cell contains ...",
+    "The main function of ... is ...",
+    "It is located in ...",
+    "This structure helps ..."
+  ],
+  "outcomes": [
+    "Use has, contains, consists of, and is located in.",
+    "Describe structure and function.",
+    "Combine two simple ideas with because.",
+    "Move from word to phrase to full sentence."
+  ],
+  "activity": "Describe the job of a cell part. Identify the part from a partner’s clue.",
+  "example": "The nucleus contains DNA. The main function of the cell membrane is to control movement into and out of the cell.",
+  "teachingDeck": "teaching.pptx",
+  "speakingOutline": "speaking-outline.json",
+  "teachingOutline": "teaching-outline.json",
+  "worksheet": "student.docx",
+  "key": "lecturer-key.docx",
+  "slideCount": 6
+}

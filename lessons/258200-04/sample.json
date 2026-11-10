@@ -1,0 +1,85 @@
+{
+  "version": 1,
+  "title": "Describe What You See: Images, Diagrams and Microscopes",
+  "course": "258200",
+  "lesson": "258200-04",
+  "objective": "Students describe visual biology information without memorizing a long paragraph.",
+  "minutes": 20,
+  "level": "Guided",
+  "type": "Exercise",
+  "form": "A",
+  "context": "Picture notes: a round pond; two small frogs at the edge; three long leaves in the centre.",
+  "items": [
+    {
+      "prompt": "Say what you see using “There are”.",
+      "answer": "There are two small frogs.",
+      "hint": "Use a number and a plural noun.",
+      "marks": 4
+    },
+    {
+      "prompt": "Describe where two things are.",
+      "answer": "Frogs are at the edge. Leaves are in the centre.",
+      "hint": "Choose words such as in, on, and at.",
+      "marks": 3
+    },
+    {
+      "prompt": "Tell a partner one fact about shape and one about size.",
+      "answer": "The pond is round. The frogs are small.",
+      "hint": "Look for words that tell you how something looks.",
+      "marks": 3
+    }
+  ],
+  "slides": [
+    {
+      "title": "Today’s goal",
+      "body": [
+        "Students describe visual biology information without memorizing a long paragraph."
+      ]
+    },
+    {
+      "title": "Words to know",
+      "body": [
+        "observe",
+        "visible",
+        "darker",
+        "round",
+        "center",
+        "inside"
+      ]
+    },
+    {
+      "title": "Read and think",
+      "body": [
+        "Picture notes: a round pond; two small frogs at the edge; three long leaves in the centre."
+      ]
+    },
+    {
+      "title": "Task 1",
+      "body": [
+        "Say what you see using “There are”.",
+        "Use a number and a plural noun."
+      ]
+    },
+    {
+      "title": "Task 2",
+      "body": [
+        "Describe where two things are.",
+        "Choose words such as in, on, and at."
+      ]
+    },
+    {
+      "title": "Task 3",
+      "body": [
+        "Tell a partner one fact about shape and one about size.",
+        "Look for words that tell you how something looks."
+      ]
+    },
+    {
+      "title": "Before you finish",
+      "body": [
+        "Share one answer with a partner.",
+        "Which English phrase helped you today?"
+      ]
+    }
+  ]
+}

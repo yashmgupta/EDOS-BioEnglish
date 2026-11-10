@@ -1,0 +1,85 @@
+{
+  "version": 1,
+  "title": "Ask, Listen and Respond in a Biology Conversation",
+  "course": "258200",
+  "lesson": "258200-05",
+  "objective": "Students practice question forms, clarification, and polite repair when they do not understand.",
+  "minutes": 20,
+  "level": "Guided",
+  "type": "Exercise",
+  "form": "A",
+  "context": "Partner A saw six birds at the pond. Partner B heard only the word “birds”.",
+  "items": [
+    {
+      "prompt": "Partner B: ask a question about the number.",
+      "answer": "How many birds did you see?",
+      "hint": "Start with How many.",
+      "marks": 4
+    },
+    {
+      "prompt": "Partner A: give the number and place in one sentence.",
+      "answer": "I saw six birds at the pond.",
+      "hint": "Start with I saw.",
+      "marks": 3
+    },
+    {
+      "prompt": "Partner B: ask for slower speech. Partner A: repeat the answer.",
+      "answer": "Listen for a polite request and a clearly repeated answer.",
+      "hint": "Try: Could you say that more slowly, please?",
+      "marks": 3
+    }
+  ],
+  "slides": [
+    {
+      "title": "Today’s goal",
+      "body": [
+        "Students practice question forms, clarification, and polite repair when they do not understand."
+      ]
+    },
+    {
+      "title": "Words to know",
+      "body": [
+        "question",
+        "answer",
+        "repeat",
+        "explain",
+        "meaning",
+        "observe"
+      ]
+    },
+    {
+      "title": "Read and think",
+      "body": [
+        "Partner A saw six birds at the pond. Partner B heard only the word “birds”."
+      ]
+    },
+    {
+      "title": "Task 1",
+      "body": [
+        "Partner B: ask a question about the number.",
+        "Start with How many."
+      ]
+    },
+    {
+      "title": "Task 2",
+      "body": [
+        "Partner A: give the number and place in one sentence.",
+        "Start with I saw."
+      ]
+    },
+    {
+      "title": "Task 3",
+      "body": [
+        "Partner B: ask for slower speech. Partner A: repeat the answer.",
+        "Try: Could you say that more slowly, please?"
+      ]
+    },
+    {
+      "title": "Before you finish",
+      "body": [
+        "Share one answer with a partner.",
+        "Which English phrase helped you today?"
+      ]
+    }
+  ]
+}
