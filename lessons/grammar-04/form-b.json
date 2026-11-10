@@ -1,0 +1,85 @@
+{
+  "version": 1,
+  "title": "Singular and Plural Nouns in Biology",
+  "course": "grammar",
+  "lesson": "grammar-04",
+  "objective": "Students control plural forms, countable nouns, and common scientific irregular plurals.",
+  "minutes": 20,
+  "level": "Guided",
+  "type": "Exercise",
+  "form": "B",
+  "context": "Lab note with errors: “Each shells is small. Many branch are long. We need two information about the tree.”",
+  "items": [
+    {
+      "prompt": "Correct the noun after “each”.",
+      "answer": "Each shell is small.",
+      "hint": "Each takes a singular count noun.",
+      "marks": 4
+    },
+    {
+      "prompt": "Correct the noun after “many”.",
+      "answer": "Many branches are long.",
+      "hint": "Many takes a plural count noun.",
+      "marks": 3
+    },
+    {
+      "prompt": "Repair the last sentence. Keep the number two.",
+      "answer": "We need two pieces of information about the tree.",
+      "hint": "Can you count information directly?",
+      "marks": 3
+    }
+  ],
+  "slides": [
+    {
+      "title": "Today’s goal",
+      "body": [
+        "Students control plural forms, countable nouns, and common scientific irregular plurals."
+      ]
+    },
+    {
+      "title": "Words to know",
+      "body": [
+        "cell/cells",
+        "sample/samples",
+        "bacterium/bacteria",
+        "medium/media",
+        "datum/data",
+        "species"
+      ]
+    },
+    {
+      "title": "Read and think",
+      "body": [
+        "Lab note with errors: “Each shells is small. Many branch are long. We need two information about the tree.”"
+      ]
+    },
+    {
+      "title": "Task 1",
+      "body": [
+        "Correct the noun after “each”.",
+        "Each takes a singular count noun."
+      ]
+    },
+    {
+      "title": "Task 2",
+      "body": [
+        "Correct the noun after “many”.",
+        "Many takes a plural count noun."
+      ]
+    },
+    {
+      "title": "Task 3",
+      "body": [
+        "Repair the last sentence. Keep the number two.",
+        "Can you count information directly?"
+      ]
+    },
+    {
+      "title": "Before you finish",
+      "body": [
+        "Share one answer with a partner.",
+        "Which English phrase helped you today?"
+      ]
+    }
+  ]
+}

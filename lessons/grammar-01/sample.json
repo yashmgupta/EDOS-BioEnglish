@@ -1,0 +1,85 @@
+{
+  "version": 1,
+  "title": "Articles in Biology: a, an, the and zero article",
+  "course": "grammar",
+  "lesson": "grammar-01",
+  "objective": "Students fix article problems common in Thai-English biology writing.",
+  "minutes": 20,
+  "level": "Guided",
+  "type": "Exercise",
+  "form": "A",
+  "context": "First mention: ___ insect landed on a leaf. Later: ___ insect moved away. General fact: ___ insects have six legs.",
+  "items": [
+    {
+      "prompt": "Fill the gap in the first sentence. Explain your choice.",
+      "answer": "An insect. First mention, one item, vowel sound.",
+      "hint": "Say the next word aloud.",
+      "marks": 4
+    },
+    {
+      "prompt": "Fill the gap in the second sentence. Explain your choice.",
+      "answer": "The insect. It is the same insect already named.",
+      "hint": "Is the reader meeting this animal for the first time?",
+      "marks": 3
+    },
+    {
+      "prompt": "Write the general fact. Decide if the gap needs an article.",
+      "answer": "Insects have six legs. General plural; no article.",
+      "hint": "The sentence refers to a whole group.",
+      "marks": 3
+    }
+  ],
+  "slides": [
+    {
+      "title": "Today’s goal",
+      "body": [
+        "Students fix article problems common in Thai-English biology writing."
+      ]
+    },
+    {
+      "title": "Words to know",
+      "body": [
+        "a cell",
+        "an organism",
+        "the nucleus",
+        "DNA",
+        "bacteria",
+        "plants"
+      ]
+    },
+    {
+      "title": "Read and think",
+      "body": [
+        "First mention: ___ insect landed on a leaf. Later: ___ insect moved away. General fact: ___ insects have six legs."
+      ]
+    },
+    {
+      "title": "Task 1",
+      "body": [
+        "Fill the gap in the first sentence. Explain your choice.",
+        "Say the next word aloud."
+      ]
+    },
+    {
+      "title": "Task 2",
+      "body": [
+        "Fill the gap in the second sentence. Explain your choice.",
+        "Is the reader meeting this animal for the first time?"
+      ]
+    },
+    {
+      "title": "Task 3",
+      "body": [
+        "Write the general fact. Decide if the gap needs an article.",
+        "The sentence refers to a whole group."
+      ]
+    },
+    {
+      "title": "Before you finish",
+      "body": [
+        "Share one answer with a partner.",
+        "Which English phrase helped you today?"
+      ]
+    }
+  ]
+}

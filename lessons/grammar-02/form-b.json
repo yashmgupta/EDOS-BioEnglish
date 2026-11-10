@@ -1,0 +1,85 @@
+{
+  "version": 1,
+  "title": "Tense and Passive Voice in Science",
+  "course": "grammar",
+  "lesson": "grammar-02",
+  "objective": "Students use present tense for facts and past/passive forms for methods.",
+  "minutes": 20,
+  "level": "Guided",
+  "type": "Exercise",
+  "form": "B",
+  "context": "Class notes: Birds lay eggs. Yesterday, students counted birds in three trees.",
+  "items": [
+    {
+      "prompt": "Copy the general fact. Name its tense.",
+      "answer": "Birds lay eggs. Present simple.",
+      "hint": "Find the sentence that is generally true.",
+      "marks": 4
+    },
+    {
+      "prompt": "Copy the completed action. Name its tense.",
+      "answer": "Yesterday, students counted birds in three trees. Past simple.",
+      "hint": "The signal word is yesterday.",
+      "marks": 3
+    },
+    {
+      "prompt": "Rewrite the completed action in the passive voice.",
+      "answer": "Birds in three trees were counted yesterday. Accept an optional by-phrase.",
+      "hint": "Use were and the past participle.",
+      "marks": 3
+    }
+  ],
+  "slides": [
+    {
+      "title": "Today’s goal",
+      "body": [
+        "Students use present tense for facts and past/passive forms for methods."
+      ]
+    },
+    {
+      "title": "Words to know",
+      "body": [
+        "is",
+        "are",
+        "was",
+        "were",
+        "measured",
+        "collected"
+      ]
+    },
+    {
+      "title": "Read and think",
+      "body": [
+        "Class notes: Birds lay eggs. Yesterday, students counted birds in three trees."
+      ]
+    },
+    {
+      "title": "Task 1",
+      "body": [
+        "Copy the general fact. Name its tense.",
+        "Find the sentence that is generally true."
+      ]
+    },
+    {
+      "title": "Task 2",
+      "body": [
+        "Copy the completed action. Name its tense.",
+        "The signal word is yesterday."
+      ]
+    },
+    {
+      "title": "Task 3",
+      "body": [
+        "Rewrite the completed action in the passive voice.",
+        "Use were and the past participle."
+      ]
+    },
+    {
+      "title": "Before you finish",
+      "body": [
+        "Share one answer with a partner.",
+        "Which English phrase helped you today?"
+      ]
+    }
+  ]
+}

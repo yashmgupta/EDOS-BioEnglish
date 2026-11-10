@@ -1,0 +1,41 @@
+{
+  "id": "grammar-05",
+  "course": "grammar",
+  "number": 5,
+  "title": "Prepositions for Location, Time and Method",
+  "objective": "Students use prepositions accurately in laboratory and research descriptions.",
+  "ppt": "original.pptx",
+  "pdf": "chapter.pdf",
+  "syllabus": null,
+  "vocabulary": [
+    "in the cell",
+    "on the slide",
+    "under the microscope",
+    "at 30 degrees",
+    "during incubation",
+    "after treatment",
+    "between groups",
+    "with a microscope",
+    "by PCR",
+    "for 20 minutes"
+  ],
+  "phrases": [
+    "The cells were observed under the microscope.",
+    "The samples were incubated at 30°C.",
+    "Growth was measured for seven days.",
+    "The difference between groups was small."
+  ],
+  "outcomes": [
+    "Use in, on, at for location and time.",
+    "Use under, between, during, after, before in lab context.",
+    "Use with and by for method and instrument.",
+    "Avoid direct translation from Thai."
+  ],
+  "activity": "Lab directions task: students describe where samples are, when they were measured, and how they were analyzed.",
+  "example": "Prepositions are small but important: “under the microscope” sounds natural; “in the microscope” does not.",
+  "teachingDeck": "teaching.pptx",
+  "teachingOutline": "teaching-outline.json",
+  "worksheet": "student.docx",
+  "key": "lecturer-key.docx",
+  "slideCount": 8
+}

@@ -1,0 +1,41 @@
+{
+  "id": "grammar-02",
+  "course": "grammar",
+  "number": 2,
+  "title": "Tense and Passive Voice in Science",
+  "objective": "Students use present tense for facts and past/passive forms for methods.",
+  "ppt": "original.pptx",
+  "pdf": "chapter.pdf",
+  "syllabus": null,
+  "vocabulary": [
+    "is",
+    "are",
+    "was",
+    "were",
+    "measured",
+    "collected",
+    "incubated",
+    "observed",
+    "analyzed",
+    "prepared"
+  ],
+  "phrases": [
+    "DNA stores ...",
+    "The samples were collected ...",
+    "The temperature was measured ...",
+    "The results showed ..."
+  ],
+  "outcomes": [
+    "Use present simple for general facts.",
+    "Use past simple for completed experiments.",
+    "Use passive voice for methods.",
+    "Avoid unnecessary tense switching."
+  ],
+  "activity": "Tense marker activity: students underline time clues and choose present, past, or passive.",
+  "example": "Fact: “Enzymes speed up reactions.” Method: “The enzyme activity was measured every two minutes.”",
+  "teachingDeck": "teaching.pptx",
+  "teachingOutline": "teaching-outline.json",
+  "worksheet": "student.docx",
+  "key": "lecturer-key.docx",
+  "slideCount": 8
+}

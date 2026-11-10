@@ -1,0 +1,55 @@
+{
+  "title": "Match a verb to its subject",
+  "objective": "Find the main noun and choose the matching verb.",
+  "slides": [
+    {
+      "title": "Find the main noun first",
+      "body": [
+        "The main noun tells you whether the subject is singular or plural. A nearby noun can distract you.",
+        "Try covering the phrase that begins with of or on."
+      ]
+    },
+    {
+      "title": "Compare two subjects",
+      "body": [
+        "“The colour of the leaves changes.” The main noun is colour, so use changes.",
+        "“The leaves on the branch change.” The main noun is leaves, so use change.",
+        "Read the shorter sentences aloud: “The colour changes.” “The leaves change.”"
+      ]
+    },
+    {
+      "title": "Read the first case together",
+      "body": [
+        "A group of snails ___ (live/lives) here. The shells on the table ___ (look/looks) smooth."
+      ]
+    },
+    {
+      "title": "Try it with a partner",
+      "body": [
+        "Find the subject head noun in each sentence.",
+        "Use singular agreement for “group”. Choose both verbs.",
+        "Ignore the phrase after of, on or in."
+      ]
+    },
+    {
+      "title": "Try a new case",
+      "body": [
+        "A group of bees ___ (visit/visits) here. The flowers in the park ___ (look/looks) bright."
+      ]
+    },
+    {
+      "title": "Work on your own",
+      "body": [
+        "Find the subject head noun in each sentence.",
+        "Use singular agreement for “group”. Choose both verbs.",
+        "Rewrite the second sentence with a singular subject."
+      ]
+    },
+    {
+      "title": "Change one noun",
+      "body": [
+        "Make your subject singular, then plural. Read both sentences to a partner and point to the verb that changes."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "id": "grammar-06",
+  "course": "grammar",
+  "number": 6,
+  "title": "Sentence Structure: Avoid Fragments and Run-ons",
+  "objective": "Students build complete academic sentences and combine ideas clearly.",
+  "ppt": "original.pptx",
+  "pdf": "chapter.pdf",
+  "syllabus": null,
+  "vocabulary": [
+    "subject",
+    "verb",
+    "object",
+    "fragment",
+    "run-on",
+    "because",
+    "although",
+    "which",
+    "therefore",
+    "however"
+  ],
+  "phrases": [
+    "The results were significant.",
+    "Because the sample was small, ...",
+    "Although growth increased, ...",
+    "However, more data are needed."
+  ],
+  "outcomes": [
+    "Recognize a complete sentence.",
+    "Fix fragments that lack a subject or verb.",
+    "Split run-on sentences.",
+    "Use because, although, and which carefully."
+  ],
+  "activity": "Sentence surgery: students repair broken biology sentences and explain what was missing.",
+  "example": "Fragment: “Because the sample was small.” Complete: “Because the sample was small, the conclusion is cautious.”",
+  "teachingDeck": "teaching.pptx",
+  "teachingOutline": "teaching-outline.json",
+  "worksheet": "student.docx",
+  "key": "lecturer-key.docx",
+  "slideCount": 8
+}

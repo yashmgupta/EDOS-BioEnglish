@@ -1,0 +1,41 @@
+{
+  "id": "grammar-01",
+  "course": "grammar",
+  "number": 1,
+  "title": "Articles in Biology: a, an, the and zero article",
+  "objective": "Students fix article problems common in Thai-English biology writing.",
+  "ppt": "original.pptx",
+  "pdf": "chapter.pdf",
+  "syllabus": null,
+  "vocabulary": [
+    "a cell",
+    "an organism",
+    "the nucleus",
+    "DNA",
+    "bacteria",
+    "plants",
+    "water",
+    "sample",
+    "experiment",
+    "result"
+  ],
+  "phrases": [
+    "A cell contains ...",
+    "The cell in Figure 1 ...",
+    "Plants need light.",
+    "DNA stores information."
+  ],
+  "outcomes": [
+    "Use a/an for one nonspecific item.",
+    "Use the when the reader knows the item.",
+    "Use zero article for general plural or uncountable nouns.",
+    "Apply article choices to biology nouns."
+  ],
+  "activity": "Article sort: students place biology nouns into a/an, the, or no article columns.",
+  "example": "General: “Cells contain DNA.” Specific: “The cells in the treatment group grew faster.”",
+  "teachingDeck": "teaching.pptx",
+  "teachingOutline": "teaching-outline.json",
+  "worksheet": "student.docx",
+  "key": "lecturer-key.docx",
+  "slideCount": 8
+}

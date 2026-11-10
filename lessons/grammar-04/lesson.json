@@ -1,0 +1,41 @@
+{
+  "id": "grammar-04",
+  "course": "grammar",
+  "number": 4,
+  "title": "Singular and Plural Nouns in Biology",
+  "objective": "Students control plural forms, countable nouns, and common scientific irregular plurals.",
+  "ppt": "original.pptx",
+  "pdf": "chapter.pdf",
+  "syllabus": null,
+  "vocabulary": [
+    "cell/cells",
+    "sample/samples",
+    "bacterium/bacteria",
+    "medium/media",
+    "datum/data",
+    "species",
+    "analysis/analyses",
+    "leaf/leaves",
+    "fungus/fungi",
+    "criterion/criteria"
+  ],
+  "phrases": [
+    "Several samples were tested.",
+    "Each sample was labeled.",
+    "Many bacteria were observed.",
+    "One species was identified."
+  ],
+  "outcomes": [
+    "Use singular and plural nouns correctly.",
+    "Distinguish countable and uncountable biology nouns.",
+    "Use several, many, each, and every accurately.",
+    "Recognize common Latin plurals."
+  ],
+  "activity": "Plural lab: students match singular/plural pairs and use them in biology sentences.",
+  "example": "“Bacteria were observed” is plural; “A bacterium was observed” is singular.",
+  "teachingDeck": "teaching.pptx",
+  "teachingOutline": "teaching-outline.json",
+  "worksheet": "student.docx",
+  "key": "lecturer-key.docx",
+  "slideCount": 8
+}

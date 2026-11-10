@@ -1,0 +1,41 @@
+{
+  "id": "grammar-03",
+  "course": "grammar",
+  "number": 3,
+  "title": "Subject-Verb Agreement with Biology Nouns",
+  "objective": "Students make verbs match singular, plural, and collective scientific subjects.",
+  "ppt": "original.pptx",
+  "pdf": "chapter.pdf",
+  "syllabus": null,
+  "vocabulary": [
+    "cell grows",
+    "cells grow",
+    "result shows",
+    "results show",
+    "sample contains",
+    "samples contain",
+    "data show",
+    "group has",
+    "groups have",
+    "species"
+  ],
+  "phrases": [
+    "The graph shows ...",
+    "The results show ...",
+    "Each sample contains ...",
+    "Several samples contain ..."
+  ],
+  "outcomes": [
+    "Identify the real subject.",
+    "Add -s for third-person singular present verbs.",
+    "Avoid agreement mistakes after long phrases.",
+    "Use data carefully as singular/plural depending on context."
+  ],
+  "activity": "Agreement hunt: students find the subject and choose the correct verb in ten sentences.",
+  "example": "“The graph shows an increase.” but “The results show an increase.”",
+  "teachingDeck": "teaching.pptx",
+  "teachingOutline": "teaching-outline.json",
+  "worksheet": "student.docx",
+  "key": "lecturer-key.docx",
+  "slideCount": 8
+}

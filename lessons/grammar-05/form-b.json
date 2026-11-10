@@ -1,0 +1,85 @@
+{
+  "version": 1,
+  "title": "Prepositions for Location, Time and Method",
+  "course": "grammar",
+  "lesson": "grammar-05",
+  "objective": "Students use prepositions accurately in laboratory and research descriptions.",
+  "minutes": 20,
+  "level": "Guided",
+  "type": "Exercise",
+  "form": "B",
+  "context": "Field note: The shell was ___ the desk. We looked at it ___ a hand lens. We wrote notes ___ the visit.",
+  "items": [
+    {
+      "prompt": "Choose a word that shows the item rested on the surface. Write the sentence.",
+      "answer": "The shell was on the desk.",
+      "hint": "Think about where the item was.",
+      "marks": 4
+    },
+    {
+      "prompt": "Choose a word that introduces the tool.",
+      "answer": "With: We looked at it with a hand lens.",
+      "hint": "The lens is the tool.",
+      "marks": 3
+    },
+    {
+      "prompt": "Complete the last sentence to show that notes were written while the visit was happening.",
+      "answer": "We wrote notes during the visit.",
+      "hint": "Choose a word that means “while something happens”.",
+      "marks": 3
+    }
+  ],
+  "slides": [
+    {
+      "title": "Today’s goal",
+      "body": [
+        "Students use prepositions accurately in laboratory and research descriptions."
+      ]
+    },
+    {
+      "title": "Words to know",
+      "body": [
+        "in the cell",
+        "on the slide",
+        "under the microscope",
+        "at 30 degrees",
+        "during incubation",
+        "after treatment"
+      ]
+    },
+    {
+      "title": "Read and think",
+      "body": [
+        "Field note: The shell was ___ the desk. We looked at it ___ a hand lens. We wrote notes ___ the visit."
+      ]
+    },
+    {
+      "title": "Task 1",
+      "body": [
+        "Choose a word that shows the item rested on the surface. Write the sentence.",
+        "Think about where the item was."
+      ]
+    },
+    {
+      "title": "Task 2",
+      "body": [
+        "Choose a word that introduces the tool.",
+        "The lens is the tool."
+      ]
+    },
+    {
+      "title": "Task 3",
+      "body": [
+        "Complete the last sentence to show that notes were written while the visit was happening.",
+        "Choose a word that means “while something happens”."
+      ]
+    },
+    {
+      "title": "Before you finish",
+      "body": [
+        "Share one answer with a partner.",
+        "Which English phrase helped you today?"
+      ]
+    }
+  ]
+}

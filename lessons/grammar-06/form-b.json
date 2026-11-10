@@ -1,0 +1,85 @@
+{
+  "version": 1,
+  "title": "Sentence Structure: Avoid Fragments and Run-ons",
+  "course": "grammar",
+  "lesson": "grammar-06",
+  "objective": "Students build complete academic sentences and combine ideas clearly.",
+  "minutes": 20,
+  "level": "Guided",
+  "type": "Exercise",
+  "form": "B",
+  "context": "Student draft: “Because the garden was quiet. We heard a bird we wrote a note.”",
+  "items": [
+    {
+      "prompt": "Find the incomplete part. Why is it incomplete?",
+      "answer": "Because the garden was quiet. It gives a reason but needs a main clause.",
+      "hint": "Look at the word because.",
+      "marks": 4
+    },
+    {
+      "prompt": "Separate the two complete ideas after the full stop.",
+      "answer": "We heard a bird. We wrote a note.",
+      "hint": "Find both subjects and their verbs.",
+      "marks": 3
+    },
+    {
+      "prompt": "Repair the whole draft. Keep the original ideas.",
+      "answer": "Because the garden was quiet, we heard a bird. We wrote a note.",
+      "hint": "Join the reason to a complete idea.",
+      "marks": 3
+    }
+  ],
+  "slides": [
+    {
+      "title": "Today’s goal",
+      "body": [
+        "Students build complete academic sentences and combine ideas clearly."
+      ]
+    },
+    {
+      "title": "Words to know",
+      "body": [
+        "subject",
+        "verb",
+        "object",
+        "fragment",
+        "run-on",
+        "because"
+      ]
+    },
+    {
+      "title": "Read and think",
+      "body": [
+        "Student draft: “Because the garden was quiet. We heard a bird we wrote a note.”"
+      ]
+    },
+    {
+      "title": "Task 1",
+      "body": [
+        "Find the incomplete part. Why is it incomplete?",
+        "Look at the word because."
+      ]
+    },
+    {
+      "title": "Task 2",
+      "body": [
+        "Separate the two complete ideas after the full stop.",
+        "Find both subjects and their verbs."
+      ]
+    },
+    {
+      "title": "Task 3",
+      "body": [
+        "Repair the whole draft. Keep the original ideas.",
+        "Join the reason to a complete idea."
+      ]
+    },
+    {
+      "title": "Before you finish",
+      "body": [
+        "Share one answer with a partner.",
+        "Which English phrase helped you today?"
+      ]
+    }
+  ]
+}

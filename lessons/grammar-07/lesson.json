@@ -1,0 +1,41 @@
+{
+  "id": "grammar-07",
+  "course": "grammar",
+  "number": 7,
+  "title": "Linking Words and Clear Academic Style",
+  "objective": "Students connect ideas with simple academic transitions and avoid overly complicated wording.",
+  "ppt": "original.pptx",
+  "pdf": "chapter.pdf",
+  "syllabus": null,
+  "vocabulary": [
+    "however",
+    "therefore",
+    "because",
+    "although",
+    "in contrast",
+    "similarly",
+    "for example",
+    "as a result",
+    "suggest",
+    "indicate"
+  ],
+  "phrases": [
+    "However, ...",
+    "Therefore, ...",
+    "In contrast, ...",
+    "These results suggest that ..."
+  ],
+  "outcomes": [
+    "Use contrast and cause-effect connectors.",
+    "Move from easy English to academic English.",
+    "Avoid unnecessary big words.",
+    "Write a clear biology paragraph."
+  ],
+  "activity": "Style ladder: rewrite five easy sentences into clear academic sentences without making them too difficult.",
+  "example": "Easy: “Plants grew more in light.” Academic: “Plants exposed to light showed greater growth than plants kept in darkness.”",
+  "teachingDeck": "teaching.pptx",
+  "teachingOutline": "teaching-outline.json",
+  "worksheet": "student.docx",
+  "key": "lecturer-key.docx",
+  "slideCount": 8
+}

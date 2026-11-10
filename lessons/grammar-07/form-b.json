@@ -1,0 +1,85 @@
+{
+  "version": 1,
+  "title": "Linking Words and Clear Academic Style",
+  "course": "grammar",
+  "lesson": "grammar-07",
+  "objective": "Students connect ideas with simple academic transitions and avoid overly complicated wording.",
+  "minutes": 20,
+  "level": "Guided",
+  "type": "Exercise",
+  "form": "B",
+  "context": "Notes: The first tree had 7 birds. The second had 2. We counted on one day. We need more visits.",
+  "items": [
+    {
+      "prompt": "Join the first two ideas with “while”.",
+      "answer": "The first tree had seven birds, while the second had two.",
+      "hint": "Use while to compare two places.",
+      "marks": 4
+    },
+    {
+      "prompt": "Join the last two ideas with “because”.",
+      "answer": "We need more visits because we counted on only one day.",
+      "hint": "Put the reason after because.",
+      "marks": 3
+    },
+    {
+      "prompt": "Write a short paragraph using your two sentences. Check that both ideas connect clearly.",
+      "answer": "Accept an accurate comparison, a clear reason for more visits, and correct linking words.",
+      "hint": "Read it aloud. Check the places and numbers.",
+      "marks": 3
+    }
+  ],
+  "slides": [
+    {
+      "title": "Today’s goal",
+      "body": [
+        "Students connect ideas with simple academic transitions and avoid overly complicated wording."
+      ]
+    },
+    {
+      "title": "Words to know",
+      "body": [
+        "however",
+        "therefore",
+        "because",
+        "although",
+        "in contrast",
+        "similarly"
+      ]
+    },
+    {
+      "title": "Read and think",
+      "body": [
+        "Notes: The first tree had 7 birds. The second had 2. We counted on one day. We need more visits."
+      ]
+    },
+    {
+      "title": "Task 1",
+      "body": [
+        "Join the first two ideas with “while”.",
+        "Use while to compare two places."
+      ]
+    },
+    {
+      "title": "Task 2",
+      "body": [
+        "Join the last two ideas with “because”.",
+        "Put the reason after because."
+      ]
+    },
+    {
+      "title": "Task 3",
+      "body": [
+        "Write a short paragraph using your two sentences. Check that both ideas connect clearly.",
+        "Read it aloud. Check the places and numbers."
+      ]
+    },
+    {
+      "title": "Before you finish",
+      "body": [
+        "Share one answer with a partner.",
+        "Which English phrase helped you today?"
+      ]
+    }
+  ]
+}

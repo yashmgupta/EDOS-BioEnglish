@@ -1,0 +1,85 @@
+{
+  "version": 1,
+  "title": "Subject-Verb Agreement with Biology Nouns",
+  "course": "grammar",
+  "lesson": "grammar-03",
+  "objective": "Students make verbs match singular, plural, and collective scientific subjects.",
+  "minutes": 20,
+  "level": "Guided",
+  "type": "Exercise",
+  "form": "A",
+  "context": "A group of snails ___ (live/lives) here. The shells on the table ___ (look/looks) smooth.",
+  "items": [
+    {
+      "prompt": "Find the subject head noun in each sentence.",
+      "answer": "group; shells.",
+      "hint": "Ignore the phrase after of, on or in.",
+      "marks": 4
+    },
+    {
+      "prompt": "Use singular agreement for “group”. Choose both verbs.",
+      "answer": "lives; look.",
+      "hint": "Check whether the main noun is singular or plural.",
+      "marks": 3
+    },
+    {
+      "prompt": "Rewrite the second sentence with a singular subject.",
+      "answer": "The shell on the table looks smooth.",
+      "hint": "Check the noun and the verb again.",
+      "marks": 3
+    }
+  ],
+  "slides": [
+    {
+      "title": "Today’s goal",
+      "body": [
+        "Students make verbs match singular, plural, and collective scientific subjects."
+      ]
+    },
+    {
+      "title": "Words to know",
+      "body": [
+        "cell grows",
+        "cells grow",
+        "result shows",
+        "results show",
+        "sample contains",
+        "samples contain"
+      ]
+    },
+    {
+      "title": "Read and think",
+      "body": [
+        "A group of snails ___ (live/lives) here. The shells on the table ___ (look/looks) smooth."
+      ]
+    },
+    {
+      "title": "Task 1",
+      "body": [
+        "Find the subject head noun in each sentence.",
+        "Ignore the phrase after of, on or in."
+      ]
+    },
+    {
+      "title": "Task 2",
+      "body": [
+        "Use singular agreement for “group”. Choose both verbs.",
+        "Check whether the main noun is singular or plural."
+      ]
+    },
+    {
+      "title": "Task 3",
+      "body": [
+        "Rewrite the second sentence with a singular subject.",
+        "Check the noun and the verb again."
+      ]
+    },
+    {
+      "title": "Before you finish",
+      "body": [
+        "Share one answer with a partner.",
+        "Which English phrase helped you today?"
+      ]
+    }
+  ]
+}
