@@ -1,0 +1,41 @@
+{
+  "id": "258201-02",
+  "course": "258201",
+  "number": 2,
+  "title": "Meet a Scientific Paper: Article Types and IMRAD",
+  "objective": "Students learn the main parts of a biology research article and what each section does.",
+  "ppt": "original.pptx",
+  "pdf": "chapter.pdf",
+  "syllabus": "../../courses/258201/syllabus.pdf",
+  "vocabulary": [
+    "article",
+    "journal",
+    "abstract",
+    "introduction",
+    "methods",
+    "results",
+    "discussion",
+    "review article",
+    "research article",
+    "IMRAD"
+  ],
+  "phrases": [
+    "The introduction explains ...",
+    "The methods describe ...",
+    "The results show ...",
+    "The discussion explains what the results mean."
+  ],
+  "outcomes": [
+    "Identify title, abstract, introduction, methods, results, discussion.",
+    "Explain the purpose of each IMRAD section.",
+    "Recognize different article types.",
+    "Preview a paper before reading every word."
+  ],
+  "activity": "Paper map: students label the parts of a short article and write one function sentence for each part.",
+  "example": "A DNA paper may use Methods to explain sample collection, PCR conditions, and how DNA bands were analyzed.",
+  "teachingDeck": "teaching.pptx",
+  "teachingOutline": "teaching-outline.json",
+  "worksheet": "student.docx",
+  "key": "lecturer-key.docx",
+  "slideCount": 8
+}

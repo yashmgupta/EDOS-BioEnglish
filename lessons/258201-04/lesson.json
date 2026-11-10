@@ -1,0 +1,52 @@
+{
+  "id": "258201-04",
+  "course": "258201",
+  "number": 4,
+  "title": "Read Smarter: Abstracts, Introductions and Main Ideas",
+  "objective": "Students learn skimming, scanning, close reading, and identifying research purpose.",
+  "ppt": "original.pptx",
+  "pdf": "chapter.pdf",
+  "syllabus": "../../courses/258201/syllabus.pdf",
+  "vocabulary": [
+    "skim",
+    "scan",
+    "main idea",
+    "research purpose",
+    "background",
+    "gap",
+    "objective",
+    "hypothesis",
+    "key argument",
+    "evidence"
+  ],
+  "phrases": [
+    "The main idea is ...",
+    "The purpose of this study was to ...",
+    "The authors wanted to find out whether ...",
+    "This paragraph explains ..."
+  ],
+  "outcomes": [
+    "Skim for topic and structure.",
+    "Scan for names, numbers, methods, and results.",
+    "Identify main idea and research purpose.",
+    "Mark useful language in an abstract."
+  ],
+  "activity": "Abstract detective: students underline background, purpose, method, result, and conclusion in a short abstract.",
+  "example": "An abstract may say: “This study investigated whether salt stress reduces seed germination in rice.” That gives the purpose and variable.",
+  "classroom": {
+    "title": "Read a short bean plant study",
+    "description": "Skim for the main idea, scan for numbers, and decide if a claim is supported.",
+    "time": "15 min",
+    "files": {
+      "material.json": "classroom/material.json",
+      "lesson.pptx": "classroom/lesson.pptx",
+      "student.docx": "classroom/student.docx",
+      "teacher.docx": "classroom/teacher.docx"
+    }
+  },
+  "teachingDeck": "teaching.pptx",
+  "teachingOutline": "teaching-outline.json",
+  "worksheet": "student.docx",
+  "key": "lecturer-key.docx",
+  "slideCount": 8
+}

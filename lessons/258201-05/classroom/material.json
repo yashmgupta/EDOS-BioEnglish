@@ -1,0 +1,64 @@
+{
+  "version": 1,
+  "title": "Paraphrase and summarize a cactus passage",
+  "course": "258201",
+  "lesson": "258201-05",
+  "objective": "Write one sentence in new words, then shorten a whole passage while keeping its main idea.",
+  "minutes": 20,
+  "level": "Guided",
+  "type": "Exercise",
+  "form": "A",
+  "context": "Class reading, adapted from the Week 5 summary worksheet: A cactus can live in dry places. Its thick stem stores water. A waxy layer on the stem helps keep water inside the plant. Spines help protect the cactus from animals that might eat it.",
+  "items": [
+    {
+      "prompt": "Paraphrase “Its thick stem stores water.” Keep both the plant part and its job.",
+      "answer": "Example: The cactus keeps water in its thick stem. Give 1 mark for thick stem, 1 for water storage and 1 for a new sentence structure. Keep the term stem if useful.",
+      "hint": "Try starting with “Water” or “The cactus”.",
+      "marks": 3
+    },
+    {
+      "prompt": "Your summary will explain how a cactus saves water. Which two details do you need? Which detail can you leave out?",
+      "answer": "1 mark for stored water in the stem, 1 for the waxy layer reducing water loss, 1 for leaving out protection from animals.",
+      "hint": "Which details answer the water question?",
+      "marks": 3
+    },
+    {
+      "prompt": "Write a one-sentence summary of how a cactus saves water. Aim for 12–20 words.",
+      "answer": "Example: A cactus stores water in its stem, and a waxy cover helps it lose less water. Award 1 each for storage, reduced loss, a clear connection, and wording that preserves the meaning. Treat the word range as guidance.",
+      "hint": "First make two short notes. Cover the passage and write from your notes.",
+      "marks": 4
+    }
+  ],
+  "slides": [
+    {
+      "title": "Try a new sentence",
+      "body": [
+        "Source: The leaf has a smooth surface.",
+        "Possible paraphrase: The surface of the leaf is smooth.",
+        "Which words stayed because they name the parts?"
+      ]
+    },
+    {
+      "title": "Work with the cactus passage",
+      "body": [
+        "Read the worksheet once.",
+        "Tell a partner the job of the stem. Then write your own sentence."
+      ]
+    },
+    {
+      "title": "Choose what to keep",
+      "body": [
+        "Your summary has one job: explain how the cactus saves water.",
+        "Choose the details that do this job."
+      ]
+    },
+    {
+      "title": "Check your summary",
+      "body": [
+        "Can a reader find both ideas in the source?",
+        "Did you add a claim that the passage does not make?",
+        "Trade summaries and check."
+      ]
+    }
+  ]
+}

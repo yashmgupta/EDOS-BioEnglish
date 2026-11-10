@@ -1,0 +1,85 @@
+{
+  "version": 1,
+  "title": "Read Smarter: Abstracts, Introductions and Main Ideas",
+  "course": "258201",
+  "lesson": "258201-04",
+  "objective": "Students learn skimming, scanning, close reading, and identifying research purpose.",
+  "minutes": 20,
+  "level": "Guided",
+  "type": "Exercise",
+  "form": "B",
+  "context": "Practice abstract: We asked when bees visit flowers. We watched for ten minutes in the morning and ten in the afternoon. We saw four bees in the morning and nine in the afternoon.",
+  "items": [
+    {
+      "prompt": "What question did the team ask?",
+      "answer": "When do bees visit flowers?",
+      "hint": "Read the first sentence.",
+      "marks": 4
+    },
+    {
+      "prompt": "Find the time spent watching and both counts.",
+      "answer": "Ten minutes in each period; four in the morning and nine in the afternoon.",
+      "hint": "Scan for numbers and time words.",
+      "marks": 3
+    },
+    {
+      "prompt": "Write the main finding in one clear sentence.",
+      "answer": "During this observation, more bees visited in the afternoon.",
+      "hint": "Use more ... than ... .",
+      "marks": 3
+    }
+  ],
+  "slides": [
+    {
+      "title": "Today’s goal",
+      "body": [
+        "Students learn skimming, scanning, close reading, and identifying research purpose."
+      ]
+    },
+    {
+      "title": "Words to know",
+      "body": [
+        "skim",
+        "scan",
+        "main idea",
+        "research purpose",
+        "background",
+        "gap"
+      ]
+    },
+    {
+      "title": "Read and think",
+      "body": [
+        "Practice abstract: We asked when bees visit flowers. We watched for ten minutes in the morning and ten in the afternoon. We saw four bees in the morning and nine in the afternoon."
+      ]
+    },
+    {
+      "title": "Task 1",
+      "body": [
+        "What question did the team ask?",
+        "Read the first sentence."
+      ]
+    },
+    {
+      "title": "Task 2",
+      "body": [
+        "Find the time spent watching and both counts.",
+        "Scan for numbers and time words."
+      ]
+    },
+    {
+      "title": "Task 3",
+      "body": [
+        "Write the main finding in one clear sentence.",
+        "Use more ... than ... ."
+      ]
+    },
+    {
+      "title": "Before you finish",
+      "body": [
+        "Share one answer with a partner.",
+        "Which English phrase helped you today?"
+      ]
+    }
+  ]
+}

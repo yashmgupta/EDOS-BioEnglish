@@ -1,0 +1,52 @@
+{
+  "id": "258201-05",
+  "course": "258201",
+  "number": 5,
+  "title": "Say It in Your Own Words: Paraphrasing and Summarizing",
+  "objective": "Students transform source sentences into clear original English.",
+  "ppt": "original.pptx",
+  "pdf": "chapter.pdf",
+  "syllabus": "../../courses/258201/syllabus.pdf",
+  "vocabulary": [
+    "paraphrase",
+    "summary",
+    "reporting verb",
+    "meaning",
+    "accurate",
+    "claim",
+    "evidence",
+    "supports",
+    "suggests",
+    "indicates"
+  ],
+  "phrases": [
+    "The authors state that ...",
+    "This means that ...",
+    "In other words, ...",
+    "The study suggests that ..."
+  ],
+  "outcomes": [
+    "Distinguish paraphrase from summary.",
+    "Change structure, not only vocabulary.",
+    "Keep the scientific meaning accurate.",
+    "Use reporting verbs and citation phrases."
+  ],
+  "activity": "Paraphrase workshop: rewrite three biology sentences and compare with a partner for accuracy.",
+  "example": "Original: “Light intensity significantly affected seedling biomass.” Paraphrase: “Seedling biomass changed significantly when light intensity changed.”",
+  "classroom": {
+    "title": "Paraphrase and summarize a cactus passage",
+    "description": "Practise keeping the meaning when you change or shorten a sentence.",
+    "time": "20 min",
+    "files": {
+      "material.json": "classroom/material.json",
+      "lesson.pptx": "classroom/lesson.pptx",
+      "student.docx": "classroom/student.docx",
+      "teacher.docx": "classroom/teacher.docx"
+    }
+  },
+  "teachingDeck": "teaching.pptx",
+  "teachingOutline": "teaching-outline.json",
+  "worksheet": "student.docx",
+  "key": "lecturer-key.docx",
+  "slideCount": 8
+}

@@ -1,0 +1,63 @@
+{
+  "version": 1,
+  "title": "Connect two studies of light and plant growth",
+  "course": "258201",
+  "lesson": "258201-07",
+  "objective": "Use evidence from two classroom studies to write a careful conclusion.",
+  "minutes": 25,
+  "level": "Guided",
+  "type": "Exercise",
+  "form": "A",
+  "context": "Classroom examples adapted from the Group A synthesis handout. Study A: Lettuce grew with 4, 8, or 12 hours of light per day. Its mean dry mass was 7.9 g, 12.6 g, and 13.1 g, in that order. Dry mass means the mass after water is removed. Study B: Spinach grew with 6, 10, or 14 hours of light per day. It had 7 leaves on average at 6 hours and 11 at 10 hours. Giving it 14 hours did not increase its mean leaf count further.",
+  "items": [
+    {
+      "prompt": "Compare the first two light periods in each study. Give one pair of values from each.",
+      "answer": "Lettuce: 7.9 g at 4 hours and 12.6 g at 8 hours (2). Spinach: 7 leaves at 6 hours and 11 leaves at 10 hours (2). Give 1 mark per study for correct values and 1 for matching hours and units.",
+      "hint": "Write Study A and Study B on separate lines.",
+      "marks": 4
+    },
+    {
+      "prompt": "Can we say which plant grew more by comparing grams with leaf counts? Explain.",
+      "answer": "No (1). The studies measured different things: dry mass and number of leaves (1).",
+      "hint": "What did each group count or weigh?",
+      "marks": 2
+    },
+    {
+      "prompt": "Write two or three sentences that connect the studies. Give a shared pattern, then explain one difference at the longest light period.",
+      "answer": "Example: Both plants grew more from the first light period to the second. At the longest period, lettuce mass rose a little more, but spinach leaf count did not rise further. Award 1 each for the shared rise, small further lettuce gain, no further spinach increase, and a clear link between studies.",
+      "hint": "Both studies showed ___. At the longest light period, however, ___.",
+      "marks": 4
+    }
+  ],
+  "slides": [
+    {
+      "title": "Read two short studies",
+      "body": [
+        "One group weighed lettuce. One group counted spinach leaves.",
+        "Read both study notes on the worksheet."
+      ]
+    },
+    {
+      "title": "Put the evidence side by side",
+      "body": [
+        "In pairs, make two columns: lettuce and spinach.",
+        "For each light period, write the time and the result. Keep the units."
+      ]
+    },
+    {
+      "title": "Test a comparison",
+      "body": [
+        "A reader puts 12.6 g next to 11 leaves.",
+        "What can the reader compare across the studies? What makes this pair of numbers hard to compare?"
+      ]
+    },
+    {
+      "title": "Write a joint conclusion",
+      "body": [
+        "Start with something the studies share.",
+        "Then give one difference.",
+        "Check that both studies appear in your answer."
+      ]
+    }
+  ]
+}

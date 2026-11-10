@@ -1,0 +1,41 @@
+{
+  "id": "258201-01",
+  "course": "258201",
+  "number": 1,
+  "title": "Academic Integrity and Responsible AI in Biology English",
+  "objective": "Students learn honest academic behavior before summarizing and analyzing biology texts.",
+  "ppt": "original.pptx",
+  "pdf": "chapter.pdf",
+  "syllabus": "../../courses/258201/syllabus.pdf",
+  "vocabulary": [
+    "integrity",
+    "plagiarism",
+    "citation",
+    "source",
+    "quote",
+    "paraphrase",
+    "AI disclosure",
+    "original",
+    "author",
+    "reference"
+  ],
+  "phrases": [
+    "According to the author, ...",
+    "In my own words, ...",
+    "This source is reliable because ...",
+    "AI was used to ..."
+  ],
+  "outcomes": [
+    "Explain plagiarism in simple English.",
+    "Use quotation, paraphrase, and citation appropriately.",
+    "Write a simple AI disclosure statement.",
+    "Respect other people’s ideas in discussion."
+  ],
+  "activity": "Case study: decide whether five examples are honest writing, weak paraphrasing, or plagiarism.",
+  "example": "If a student uses AI to improve grammar, they can write: “AI was used to check grammar and clarity. The scientific ideas are my own.”",
+  "teachingDeck": "teaching.pptx",
+  "teachingOutline": "teaching-outline.json",
+  "worksheet": "student.docx",
+  "key": "lecturer-key.docx",
+  "slideCount": 8
+}

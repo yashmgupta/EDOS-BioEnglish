@@ -1,0 +1,52 @@
+{
+  "id": "258201-07",
+  "course": "258201",
+  "number": 7,
+  "title": "Think Like a Scientist: Analysis, Synthesis and Discussion",
+  "objective": "Students combine information from more than one source and write cautious academic conclusions.",
+  "ppt": "original.pptx",
+  "pdf": "chapter.pdf",
+  "syllabus": "../../courses/258201/syllabus.pdf",
+  "vocabulary": [
+    "analyze",
+    "synthesize",
+    "compare",
+    "contrast",
+    "cautious language",
+    "may",
+    "might",
+    "suggest",
+    "limitation",
+    "future research"
+  ],
+  "phrases": [
+    "Both studies found ...",
+    "In contrast, ...",
+    "One possible explanation is ...",
+    "Further research is needed because ..."
+  ],
+  "outcomes": [
+    "Compare two biology papers.",
+    "Use cautious language such as may, might, suggest.",
+    "Write an analytical paragraph.",
+    "Build a simple synthesis matrix."
+  ],
+  "activity": "Synthesis matrix: students compare two short article summaries using method, result, limitation, and useful quote.",
+  "example": "One plant-growth paper may show a strong light effect; another may show only a small effect because the observation period was shorter.",
+  "classroom": {
+    "title": "Connect two studies of light and plant growth",
+    "description": "Compare growth patterns in lettuce and spinach using the evidence from both studies.",
+    "time": "25 min",
+    "files": {
+      "material.json": "classroom/material.json",
+      "lesson.pptx": "classroom/lesson.pptx",
+      "student.docx": "classroom/student.docx",
+      "teacher.docx": "classroom/teacher.docx"
+    }
+  },
+  "teachingDeck": "teaching.pptx",
+  "teachingOutline": "teaching-outline.json",
+  "worksheet": "student.docx",
+  "key": "lecturer-key.docx",
+  "slideCount": 8
+}

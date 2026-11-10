@@ -1,0 +1,54 @@
+{
+  "title": "Find and check a biology source",
+  "objective": "Build a focused search and choose a source you can check.",
+  "slides": [
+    {
+      "title": "Turn a question into search words",
+      "body": [
+        "For “Which birds live in city parks?”, choose birds, city and parks.",
+        "Try birds AND parks. Add urban to focus the search. Try a different word if you find too little."
+      ]
+    },
+    {
+      "title": "Look past the title",
+      "body": [
+        "Imagine a source called “Birds after rain.” Who wrote it? Where did the counts come from?",
+        "A named author is a starting point. Check the method, date, references and fit with your question."
+      ]
+    },
+    {
+      "title": "Read the first case together",
+      "body": [
+        "You want to find papers about frogs in city ponds. Source A lists an author, a method, a date and references. Source B is an unsigned post with no sources."
+      ]
+    },
+    {
+      "title": "Try it with a partner",
+      "body": [
+        "Write a search with two ideas joined by AND.",
+        "Add a second word for “city” using OR.",
+        "One idea is the animal. One is the place."
+      ]
+    },
+    {
+      "title": "Try a new case",
+      "body": [
+        "You want to find papers about bees in city gardens. Source A lists an author, a method, a date and references. Source B is an unsigned post with no sources."
+      ]
+    },
+    {
+      "title": "Work on your own",
+      "body": [
+        "Write a search with two ideas joined by AND.",
+        "Add a second word for “city” using OR.",
+        "Which source would you read first? Give two reasons."
+      ]
+    },
+    {
+      "title": "Keep a search note",
+      "body": [
+        "Record your search words, one source you would choose, and one feature you would check before citing it."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "id": "258201-03",
+  "course": "258201",
+  "number": 3,
+  "title": "Search Smart: Databases, Keywords and Reliable Sources",
+  "objective": "Students practice finding biology information using search terms and source evaluation.",
+  "ppt": "original.pptx",
+  "pdf": "chapter.pdf",
+  "syllabus": "../../courses/258201/syllabus.pdf",
+  "vocabulary": [
+    "database",
+    "keyword",
+    "Boolean operator",
+    "PubMed",
+    "Google Scholar",
+    "Scopus",
+    "reliable",
+    "peer-reviewed",
+    "current",
+    "evidence"
+  ],
+  "phrases": [
+    "I searched for ...",
+    "This article is useful because ...",
+    "The source is reliable because ...",
+    "The keywords I used were ..."
+  ],
+  "outcomes": [
+    "Create effective keyword combinations.",
+    "Use AND, OR, and phrase searching.",
+    "Compare search results from different sources.",
+    "Evaluate whether a source is reliable for academic use."
+  ],
+  "activity": "Database workshop: students write three keyword searches and choose the most reliable result.",
+  "example": "To search enzyme activity, a student might use: enzyme activity AND temperature AND plant extract.",
+  "teachingDeck": "teaching.pptx",
+  "teachingOutline": "teaching-outline.json",
+  "worksheet": "student.docx",
+  "key": "lecturer-key.docx",
+  "slideCount": 8
+}

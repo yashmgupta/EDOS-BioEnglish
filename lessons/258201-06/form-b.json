@@ -1,0 +1,85 @@
+{
+  "version": 1,
+  "title": "Results, Figures and Tables: What Did They Find?",
+  "course": "258201",
+  "lesson": "258201-06",
+  "objective": "Students learn to read data displays and explain results in clear academic English.",
+  "minutes": 20,
+  "level": "Guided",
+  "type": "Exercise",
+  "form": "B",
+  "context": "Classroom data: Students counted butterflies for ten minutes per site. Park = 15 butterflies. Garden = 10 butterflies. Field = 5 butterflies. They visited each site once.",
+  "items": [
+    {
+      "prompt": "What did the students measure? Give the unit and the time for each site.",
+      "answer": "Number of butterflies seen at each site; butterflies per ten-minute observation.",
+      "hint": "Look for the animal, the number, and the time.",
+      "marks": 4
+    },
+    {
+      "prompt": "Compare the highest and lowest sites. Use both counts and give the difference.",
+      "answer": "Park 15, field 5. The park count was ten higher.",
+      "hint": "Subtract the smaller number from the larger one.",
+      "marks": 3
+    },
+    {
+      "prompt": "A student says the highest site always has the most animals. What can you say from these data?",
+      "answer": "The park had the highest count on this visit. One visit cannot show what always happens.",
+      "hint": "Use: On this visit ... . We would need ... .",
+      "marks": 3
+    }
+  ],
+  "slides": [
+    {
+      "title": "Today’s goal",
+      "body": [
+        "Students learn to read data displays and explain results in clear academic English."
+      ]
+    },
+    {
+      "title": "Words to know",
+      "body": [
+        "figure",
+        "table",
+        "axis",
+        "trend",
+        "increase",
+        "decrease"
+      ]
+    },
+    {
+      "title": "Read and think",
+      "body": [
+        "Classroom data: Students counted butterflies for ten minutes per site. Park = 15 butterflies. Garden = 10 butterflies. Field = 5 butterflies. They visited each site once."
+      ]
+    },
+    {
+      "title": "Task 1",
+      "body": [
+        "What did the students measure? Give the unit and the time for each site.",
+        "Look for the animal, the number, and the time."
+      ]
+    },
+    {
+      "title": "Task 2",
+      "body": [
+        "Compare the highest and lowest sites. Use both counts and give the difference.",
+        "Subtract the smaller number from the larger one."
+      ]
+    },
+    {
+      "title": "Task 3",
+      "body": [
+        "A student says the highest site always has the most animals. What can you say from these data?",
+        "Use: On this visit ... . We would need ... ."
+      ]
+    },
+    {
+      "title": "Before you finish",
+      "body": [
+        "Share one answer with a partner.",
+        "Which English phrase helped you today?"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "title": "Find your way through a research paper",
+  "objective": "Identify the job of each section and tell a research report from a review.",
+  "slides": [
+    {
+      "title": "What kind of article is this?",
+      "body": [
+        "A research report describes a question, a study and its results.",
+        "A review brings findings from several papers together. Look at the abstract to see what the authors did."
+      ]
+    },
+    {
+      "title": "Follow one class study",
+      "body": [
+        "Introduction: Does our garden have more butterflies in the morning?",
+        "Methods: We watched for ten minutes at two times.",
+        "Results: We saw 6 butterflies in the morning and 2 later.",
+        "Discussion: The time of day may matter. More visits would help."
+      ]
+    },
+    {
+      "title": "Read the first case together",
+      "body": [
+        "Classroom text: We asked where snails were common. We counted snails by two ponds. Pond A had eight and Pond B had three. The banks may differ in shade."
+      ]
+    },
+    {
+      "title": "Try it with a partner",
+      "body": [
+        "Which sentence belongs in Methods? Explain your choice.",
+        "Give one result. Name the section where a reader would find it.",
+        "Look for what the team did."
+      ]
+    },
+    {
+      "title": "Try a new case",
+      "body": [
+        "Classroom text: We asked where birds were common. We counted birds in two gardens. Garden A had seven and Garden B had three. The gardens may differ in food."
+      ]
+    },
+    {
+      "title": "Work on your own",
+      "body": [
+        "Which sentence belongs in Methods? Explain your choice.",
+        "Give one result. Name the section where a reader would find it.",
+        "Which section gives a possible reason for the result? Give the possible reason in this text."
+      ]
+    },
+    {
+      "title": "Name the job of a sentence",
+      "body": [
+        "Choose a sentence from the second case. Say which section it fits and which words helped you decide."
+      ]
+    }
+  ]
+}

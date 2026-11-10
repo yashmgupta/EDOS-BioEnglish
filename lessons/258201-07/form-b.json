@@ -1,0 +1,85 @@
+{
+  "version": 1,
+  "title": "Think Like a Scientist: Analysis, Synthesis and Discussion",
+  "course": "258201",
+  "lesson": "258201-07",
+  "objective": "Students combine information from more than one source and write cautious academic conclusions.",
+  "minutes": 20,
+  "level": "Guided",
+  "type": "Exercise",
+  "form": "B",
+  "context": "Report A: A team saw more bees in a sunny garden than in a shaded garden on one morning. Report B: Another team saw similar numbers in two gardens on one evening.",
+  "items": [
+    {
+      "prompt": "State the main finding of each report.",
+      "answer": "A: more bees in the sunny garden. B: similar counts.",
+      "hint": "Write one short line per report.",
+      "marks": 4
+    },
+    {
+      "prompt": "Compare the reports in one sentence. Use “while” or “however”.",
+      "answer": "Accept an accurate contrast between the difference in A and similar counts in B.",
+      "hint": "Start with: Report A found ___, while Report B found ___.",
+      "marks": 3
+    },
+    {
+      "prompt": "Suggest one reason the findings may differ and one way to check it.",
+      "answer": "Example: The time of day may matter. Count at each site in the morning and evening on several days.",
+      "hint": "Use may for a possible explanation.",
+      "marks": 3
+    }
+  ],
+  "slides": [
+    {
+      "title": "Today’s goal",
+      "body": [
+        "Students combine information from more than one source and write cautious academic conclusions."
+      ]
+    },
+    {
+      "title": "Words to know",
+      "body": [
+        "analyze",
+        "synthesize",
+        "compare",
+        "contrast",
+        "cautious language",
+        "may"
+      ]
+    },
+    {
+      "title": "Read and think",
+      "body": [
+        "Report A: A team saw more bees in a sunny garden than in a shaded garden on one morning. Report B: Another team saw similar numbers in two gardens on one evening."
+      ]
+    },
+    {
+      "title": "Task 1",
+      "body": [
+        "State the main finding of each report.",
+        "Write one short line per report."
+      ]
+    },
+    {
+      "title": "Task 2",
+      "body": [
+        "Compare the reports in one sentence. Use “while” or “however”.",
+        "Start with: Report A found ___, while Report B found ___."
+      ]
+    },
+    {
+      "title": "Task 3",
+      "body": [
+        "Suggest one reason the findings may differ and one way to check it.",
+        "Use may for a possible explanation."
+      ]
+    },
+    {
+      "title": "Before you finish",
+      "body": [
+        "Share one answer with a partner.",
+        "Which English phrase helped you today?"
+      ]
+    }
+  ]
+}

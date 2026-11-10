@@ -1,0 +1,85 @@
+{
+  "version": 1,
+  "title": "Search Smart: Databases, Keywords and Reliable Sources",
+  "course": "258201",
+  "lesson": "258201-03",
+  "objective": "Students practice finding biology information using search terms and source evaluation.",
+  "minutes": 20,
+  "level": "Guided",
+  "type": "Exercise",
+  "form": "B",
+  "context": "You want to find papers about bees in city gardens. Source A lists an author, a method, a date and references. Source B is an unsigned post with no sources.",
+  "items": [
+    {
+      "prompt": "Write a search with two ideas joined by AND.",
+      "answer": "Example: bees AND \"city gardens\".",
+      "hint": "One idea is the animal. One is the place.",
+      "marks": 4
+    },
+    {
+      "prompt": "Add a second word for “city” using OR.",
+      "answer": "Example: bees AND (city OR urban) AND gardens.",
+      "hint": "Put two similar words in brackets.",
+      "marks": 3
+    },
+    {
+      "prompt": "Which source would you read first? Give two reasons.",
+      "answer": "Source A. Accept two details such as named author, methods, date, or references.",
+      "hint": "Check who wrote it and how the information was collected.",
+      "marks": 3
+    }
+  ],
+  "slides": [
+    {
+      "title": "Today’s goal",
+      "body": [
+        "Students practice finding biology information using search terms and source evaluation."
+      ]
+    },
+    {
+      "title": "Words to know",
+      "body": [
+        "database",
+        "keyword",
+        "Boolean operator",
+        "PubMed",
+        "Google Scholar",
+        "Scopus"
+      ]
+    },
+    {
+      "title": "Read and think",
+      "body": [
+        "You want to find papers about bees in city gardens. Source A lists an author, a method, a date and references. Source B is an unsigned post with no sources."
+      ]
+    },
+    {
+      "title": "Task 1",
+      "body": [
+        "Write a search with two ideas joined by AND.",
+        "One idea is the animal. One is the place."
+      ]
+    },
+    {
+      "title": "Task 2",
+      "body": [
+        "Add a second word for “city” using OR.",
+        "Put two similar words in brackets."
+      ]
+    },
+    {
+      "title": "Task 3",
+      "body": [
+        "Which source would you read first? Give two reasons.",
+        "Check who wrote it and how the information was collected."
+      ]
+    },
+    {
+      "title": "Before you finish",
+      "body": [
+        "Share one answer with a partner.",
+        "Which English phrase helped you today?"
+      ]
+    }
+  ]
+}

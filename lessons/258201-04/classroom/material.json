@@ -1,0 +1,68 @@
+{
+  "version": 1,
+  "title": "Read a short bean plant study",
+  "course": "258201",
+  "lesson": "258201-04",
+  "objective": "Find the main idea, check a detail, and spot a claim the text cannot support.",
+  "minutes": 15,
+  "level": "Guided",
+  "type": "Exercise",
+  "form": "A",
+  "context": "A class compared 30 bean plants. Each group had 10 plants. One group had 8 hours of light a day. The other groups had 4 hours or no light. All plants got the same amount of water. After 14 days, the 8-hour group was the tallest on average (18 cm). This classroom passage gives no heights for the other groups.",
+  "items": [
+    {
+      "prompt": "Read once. What question did the class ask?",
+      "answer": "2 marks: asks about daily light (1) and the height or growth of bean plants (1). Accept a clear question in the student’s own words.",
+      "hint": "What did the class change? What did it measure?",
+      "marks": 2
+    },
+    {
+      "prompt": "Find three details: the number of plants in each group, the length of the study, and the mean height of the tallest group.",
+      "answer": "1 mark each: 10 plants per group, 14 days, 18 cm. Do not accept 30 as the group size.",
+      "hint": "Read the words around each number.",
+      "marks": 3
+    },
+    {
+      "prompt": "A reader says the 8-hour group was twice as tall as the 4-hour group. Can you check this? Explain.",
+      "answer": "We cannot check it (1). We need the mean height of the 4-hour group (1).",
+      "hint": "Which two heights would you need?",
+      "marks": 2
+    },
+    {
+      "prompt": "Write one sentence that reports the main result. Include a group, a number, and its unit.",
+      "answer": "Example: After 14 days, the 8-hour group was tallest, with a mean height of 18 cm. Give 1 mark for the correct group, 1 for the comparison and 1 for 18 cm as a mean.",
+      "hint": "In this class study, the ___ group …",
+      "marks": 3
+    }
+  ],
+  "slides": [
+    {
+      "title": "Read for the main idea",
+      "body": [
+        "Read the worksheet passage once.",
+        "With a partner, name the thing the class changed and the thing it measured."
+      ]
+    },
+    {
+      "title": "Scan for a detail",
+      "body": [
+        "Scan means to look quickly for one detail.",
+        "Underline the words around each number. What does each number describe?"
+      ]
+    },
+    {
+      "title": "Check a claim",
+      "body": [
+        "Read the claim in question 3.",
+        "Find the two values you would need to check it. Are both in the text?"
+      ]
+    },
+    {
+      "title": "Write and check",
+      "body": [
+        "Write one result in your own words.",
+        "Ask a partner to check your group, number, and unit against the passage."
+      ]
+    }
+  ]
+}

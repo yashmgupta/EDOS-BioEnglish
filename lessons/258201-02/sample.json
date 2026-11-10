@@ -1,0 +1,85 @@
+{
+  "version": 1,
+  "title": "Meet a Scientific Paper: Article Types and IMRAD",
+  "course": "258201",
+  "lesson": "258201-02",
+  "objective": "Students learn the main parts of a biology research article and what each section does.",
+  "minutes": 20,
+  "level": "Guided",
+  "type": "Exercise",
+  "form": "A",
+  "context": "Classroom text: We asked where snails were common. We counted snails by two ponds. Pond A had eight and Pond B had three. The banks may differ in shade.",
+  "items": [
+    {
+      "prompt": "Which sentence belongs in Methods? Explain your choice.",
+      "answer": "We counted snails by two ponds. It tells what the team did.",
+      "hint": "Look for what the team did.",
+      "marks": 4
+    },
+    {
+      "prompt": "Give one result. Name the section where a reader would find it.",
+      "answer": "Pond A had eight snails and Pond B had three; Results.",
+      "hint": "Look for counts.",
+      "marks": 3
+    },
+    {
+      "prompt": "Which section gives a possible reason for the result? Give the possible reason in this text.",
+      "answer": "Discussion; the banks may differ in shade.",
+      "hint": "Find the word may.",
+      "marks": 3
+    }
+  ],
+  "slides": [
+    {
+      "title": "Today’s goal",
+      "body": [
+        "Students learn the main parts of a biology research article and what each section does."
+      ]
+    },
+    {
+      "title": "Words to know",
+      "body": [
+        "article",
+        "journal",
+        "abstract",
+        "introduction",
+        "methods",
+        "results"
+      ]
+    },
+    {
+      "title": "Read and think",
+      "body": [
+        "Classroom text: We asked where snails were common. We counted snails by two ponds. Pond A had eight and Pond B had three. The banks may differ in shade."
+      ]
+    },
+    {
+      "title": "Task 1",
+      "body": [
+        "Which sentence belongs in Methods? Explain your choice.",
+        "Look for what the team did."
+      ]
+    },
+    {
+      "title": "Task 2",
+      "body": [
+        "Give one result. Name the section where a reader would find it.",
+        "Look for counts."
+      ]
+    },
+    {
+      "title": "Task 3",
+      "body": [
+        "Which section gives a possible reason for the result? Give the possible reason in this text.",
+        "Find the word may."
+      ]
+    },
+    {
+      "title": "Before you finish",
+      "body": [
+        "Share one answer with a partner.",
+        "Which English phrase helped you today?"
+      ]
+    }
+  ]
+}

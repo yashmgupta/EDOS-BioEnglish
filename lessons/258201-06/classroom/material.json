@@ -1,0 +1,90 @@
+{
+  "version": 1,
+  "course": "258201",
+  "lesson": "258201-06",
+  "title": "Writing results from a catalase table",
+  "objective": "Use numbers to describe a result. Explain what the result may mean and give one limit.",
+  "minutes": 25,
+  "level": "Guided",
+  "type": "Exercise",
+  "form": "A",
+  "context": "Catalase is an enzyme found in potatoes. The class exercise uses oxygen made in the first minute as a measure of enzyme activity. More oxygen means higher activity in this exercise. Each value is the mean (average) of five measurements. Table 1. Mean oxygen made in the first minute (mL): pH 4 = 8.3, pH 5 = 13.9, pH 6 = 20.8, pH 7 = 26.1, pH 8 = 21.7, pH 9 = 16.0, pH 10 = 11.8. Source: Course 258201, Research Paper Exercise 3, Table 1. These are simulated data made for class.",
+  "items": [
+    {
+      "prompt": "Name the table and say what it measures in one sentence.",
+      "answer": "Table 1 shows the mean volume of oxygen made in the first minute at different pH values. Give 1 mark for naming Table 1 and 1 for identifying mean oxygen volume in the first minute across pH values.",
+      "hint": "Table 1 shows …",
+      "marks": 2
+    },
+    {
+      "prompt": "Describe the pattern across all seven values. Where did the pattern change?",
+      "answer": "Mean oxygen volume rose from pH 4 to pH 7, then fell from pH 7 to pH 10. Give 1 mark for the rise to pH 7 and 1 for the fall after pH 7.",
+      "hint": "From pH … to pH … , the mean … . It then … .",
+      "marks": 2
+    },
+    {
+      "prompt": "Compare pH 7 with pH 9 in one Results sentence. Give both mean values and the unit.",
+      "answer": "Mean oxygen volume was higher at pH 7 (26.1 mL) than at pH 9 (16.0 mL). Give 1 mark for each correct pH–value pair and 1 for a correct comparison with mL. Accept 16 mL.",
+      "hint": "The mean was … mL at pH … and … mL at pH … .",
+      "marks": 3
+    },
+    {
+      "prompt": "Write two Discussion sentences. What might the pattern mean for potato catalase? Why can we not name its exact best pH?",
+      "answer": "Potato catalase may work best near pH 7 under these conditions. Only whole pH values were tested, so the exact best pH may lie between them. Give 1 mark for a sensible interpretation, 1 for the measured limit (whole pH values only), and 1 for explaining what remains unknown.",
+      "hint": "The pattern suggests … . We cannot tell … because … .",
+      "marks": 3
+    }
+  ],
+  "slides": [
+    {
+      "title": "What do the numbers mean?",
+      "body": [
+        "Catalase is an enzyme found in potatoes.",
+        "These simulated data show oxygen made in the first minute. More oxygen means higher activity in this exercise.",
+        "A mean is an average. Each value is a mean of five measurements."
+      ]
+    },
+    {
+      "title": "Read Table 1 with a partner",
+      "body": [
+        "Table 1. Mean oxygen made in the first minute (mL), by pH.",
+        "pH 4: 8.3   |   pH 5: 13.9   |   pH 6: 20.8   |   pH 7: 26.1",
+        "pH 8: 21.7   |   pH 9: 16.0   |   pH 10: 11.8",
+        "Point to pH 5. Which value belongs to it? What does mL mean?"
+      ]
+    },
+    {
+      "title": "How to write a Results sentence",
+      "body": [
+        "Name the display. “Table 1 shows mean oxygen volume at different pH values.”",
+        "Highlight one change. “Mean oxygen volume rose from pH 4 to pH 5.”",
+        "Compare with numbers. “The mean was 8.3 mL at pH 4 and 13.9 mL at pH 5.”"
+      ]
+    },
+    {
+      "title": "Which sentence needs more evidence?",
+      "body": [
+        "A. The mean was higher at pH 5 than at pH 4.",
+        "B. A change in pH may affect how well the enzyme works.",
+        "With a partner, label each sentence Results or Discussion. Which words helped you decide?"
+      ]
+    },
+    {
+      "title": "Write on your own",
+      "body": [
+        "1. Name the table and say what it measures.",
+        "2. Describe the pattern from pH 4 to pH 10. Where does it change?",
+        "3. Compare pH 7 and pH 9. Include both mean values and the unit.",
+        "4. Explain what the pattern may mean. Why can we not name the exact best pH?"
+      ]
+    },
+    {
+      "title": "Check your evidence",
+      "body": [
+        "Underline both mean values and their unit in your comparison.",
+        "Circle a word that shows you are careful in your Discussion, such as “may” or “suggests”.",
+        "Ask a partner which statement is a measurement and which is your explanation."
+      ]
+    }
+  ]
+}

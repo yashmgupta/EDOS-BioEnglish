@@ -1,0 +1,85 @@
+{
+  "version": 1,
+  "title": "Say It in Your Own Words: Paraphrasing and Summarizing",
+  "course": "258201",
+  "lesson": "258201-05",
+  "objective": "Students transform source sentences into clear original English.",
+  "minutes": 20,
+  "level": "Guided",
+  "type": "Exercise",
+  "form": "A",
+  "context": "Classroom source: Field Note A, by Mali. “Students saw twelve butterflies in the sunny garden. They saw five in the shaded garden. They watched each garden for ten minutes.”",
+  "items": [
+    {
+      "prompt": "Retell the two counts in your own words. Name the source.",
+      "answer": "Mali reports five butterflies in shade and twelve in sun. Accept accurate paraphrases.",
+      "hint": "Change the order of the places.",
+      "marks": 4
+    },
+    {
+      "prompt": "Write a one-sentence summary of the main finding.",
+      "answer": "More butterflies were seen in the sunny garden during the observation.",
+      "hint": "A summary may omit some details.",
+      "marks": 3
+    },
+    {
+      "prompt": "Name one detail your summary kept and one it left out. Explain your choice.",
+      "answer": "Accept two accurate details from the student’s own summary and a reason for keeping the main idea.",
+      "hint": "Check your summary against the original text.",
+      "marks": 3
+    }
+  ],
+  "slides": [
+    {
+      "title": "Today’s goal",
+      "body": [
+        "Students transform source sentences into clear original English."
+      ]
+    },
+    {
+      "title": "Words to know",
+      "body": [
+        "paraphrase",
+        "summary",
+        "reporting verb",
+        "meaning",
+        "accurate",
+        "claim"
+      ]
+    },
+    {
+      "title": "Read and think",
+      "body": [
+        "Classroom source: Field Note A, by Mali. “Students saw twelve butterflies in the sunny garden. They saw five in the shaded garden. They watched each garden for ten minutes.”"
+      ]
+    },
+    {
+      "title": "Task 1",
+      "body": [
+        "Retell the two counts in your own words. Name the source.",
+        "Change the order of the places."
+      ]
+    },
+    {
+      "title": "Task 2",
+      "body": [
+        "Write a one-sentence summary of the main finding.",
+        "A summary may omit some details."
+      ]
+    },
+    {
+      "title": "Task 3",
+      "body": [
+        "Name one detail your summary kept and one it left out. Explain your choice.",
+        "Check your summary against the original text."
+      ]
+    },
+    {
+      "title": "Before you finish",
+      "body": [
+        "Share one answer with a partner.",
+        "Which English phrase helped you today?"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "title": "Give credit for a biology finding",
+  "objective": "Name the source of a fact and describe how you used AI.",
+  "slides": [
+    {
+      "title": "Whose words and whose finding?",
+      "body": [
+        "Put copied words in quotation marks. Name the source.",
+        "When you tell the idea in your own words, the finding still needs its source.",
+        "If you used AI, check the facts against the source and follow your course rules."
+      ]
+    },
+    {
+      "title": "Keep track of the source",
+      "body": [
+        "A class note by Lek says, “We saw four ants on the leaf.”",
+        "Possible report: Lek recorded four ants on a leaf.",
+        "If AI helped with spelling, say exactly that. Never supply a reference you have not checked."
+      ]
+    },
+    {
+      "title": "Read the first case together",
+      "body": [
+        "Classroom source: Field Note A, by Mali. “We counted ten snails near the pond.” You used an AI tool to check spelling only."
+      ]
+    },
+    {
+      "title": "Try it with a partner",
+      "body": [
+        "Write the finding in your own words and name the source.",
+        "Explain why a student should name the source.",
+        "Keep the place and number."
+      ]
+    },
+    {
+      "title": "Try a new case",
+      "body": [
+        "Classroom source: Field Note B, by Niran. “We saw six birds in the garden.” You used an AI tool to check spelling only."
+      ]
+    },
+    {
+      "title": "Work on your own",
+      "body": [
+        "Write the finding in your own words and name the source.",
+        "Explain why a student should name the source.",
+        "Write one honest sentence about your AI use."
+      ]
+    },
+    {
+      "title": "Check the source trail",
+      "body": [
+        "Can a reader find the person or text behind the number? Can the reader tell what AI did?"
+      ]
+    }
+  ]
+}

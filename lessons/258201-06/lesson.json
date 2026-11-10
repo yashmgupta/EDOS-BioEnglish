@@ -1,0 +1,53 @@
+{
+  "id": "258201-06",
+  "course": "258201",
+  "number": 6,
+  "title": "Results, Figures and Tables: What Did They Find?",
+  "objective": "Students learn to read data displays and explain results in clear academic English.",
+  "ppt": "original.pptx",
+  "pdf": "chapter.pdf",
+  "syllabus": "../../courses/258201/syllabus.pdf",
+  "vocabulary": [
+    "figure",
+    "table",
+    "axis",
+    "trend",
+    "increase",
+    "decrease",
+    "peak",
+    "difference",
+    "significant",
+    "approximately"
+  ],
+  "phrases": [
+    "Figure 1 shows ...",
+    "The value increased from ... to ...",
+    "There was no clear difference between ...",
+    "The highest value was observed in ..."
+  ],
+  "outcomes": [
+    "Identify what a graph or table measures.",
+    "Describe increase, decrease, trend, peak, and difference.",
+    "Avoid overclaiming beyond the data.",
+    "Connect figures to results sentences."
+  ],
+  "activity": "Figure reader: students answer: What was measured? Which group was highest? What sentence explains the main result?",
+  "example": "In a bacterial growth graph, the line rises between hour 2 and hour 8, then becomes stable after hour 10.",
+  "classroom": {
+    "title": "Writing results from a catalase table",
+    "description": "Read simulated class data, use numbers in a comparison, and explain one limit.",
+    "time": "25 min",
+    "files": {
+      "material.json": "classroom/material.json",
+      "lesson.pptx": "classroom/lesson.pptx",
+      "student.docx": "classroom/student.docx",
+      "teacher.docx": "classroom/teacher.docx",
+      "source-guide.md": "classroom/source-guide.md"
+    }
+  },
+  "teachingDeck": "teaching.pptx",
+  "teachingOutline": "teaching-outline.json",
+  "worksheet": "student.docx",
+  "key": "lecturer-key.docx",
+  "slideCount": 8
+}

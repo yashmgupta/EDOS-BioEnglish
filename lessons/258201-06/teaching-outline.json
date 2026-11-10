@@ -1,0 +1,55 @@
+{
+  "title": "Report a result from a table",
+  "objective": "Compare values with their units and explain one limit of the evidence.",
+  "slides": [
+    {
+      "title": "Read the label before the number",
+      "body": [
+        "Find what was measured, the groups, and the unit.",
+        "Look for a pattern. Give values to support your comparison. Keep a possible explanation for the discussion."
+      ]
+    },
+    {
+      "title": "Write about a catalase table",
+      "body": [
+        "Simulated values from the class exercise: mean oxygen in the first minute was 8.3 mL at pH 4 and 13.9 mL at pH 5.",
+        "Model: The mean was 5.6 mL higher at pH 5 than at pH 4.",
+        "Point to the two values used in the comparison."
+      ]
+    },
+    {
+      "title": "Read the first case together",
+      "body": [
+        "Classroom data: Students counted birds for ten minutes per site. Pond = 12 birds. Garden = 8 birds. Field = 4 birds. They visited each site once."
+      ]
+    },
+    {
+      "title": "Try it with a partner",
+      "body": [
+        "What did the students measure? Give the unit and the time for each site.",
+        "Compare the highest and lowest sites. Use both counts and give the difference.",
+        "Look for the animal, the number, and the time."
+      ]
+    },
+    {
+      "title": "Try a new case",
+      "body": [
+        "Classroom data: Students counted butterflies for ten minutes per site. Park = 15 butterflies. Garden = 10 butterflies. Field = 5 butterflies. They visited each site once."
+      ]
+    },
+    {
+      "title": "Work on your own",
+      "body": [
+        "What did the students measure? Give the unit and the time for each site.",
+        "Compare the highest and lowest sites. Use both counts and give the difference.",
+        "A student says the highest site always has the most animals. What can you say from these data?"
+      ]
+    },
+    {
+      "title": "Separate two statements",
+      "body": [
+        "Say one result supported by the case. Then say one thing we would need to learn from a second visit."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,85 @@
+{
+  "version": 1,
+  "title": "Academic Integrity and Responsible AI in Biology English",
+  "course": "258201",
+  "lesson": "258201-01",
+  "objective": "Students learn honest academic behavior before summarizing and analyzing biology texts.",
+  "minutes": 20,
+  "level": "Guided",
+  "type": "Exercise",
+  "form": "B",
+  "context": "Classroom source: Field Note B, by Niran. “We saw six birds in the garden.” You used an AI tool to check spelling only.",
+  "items": [
+    {
+      "prompt": "Write the finding in your own words and name the source.",
+      "answer": "Niran reports a count of six birds in the garden (Field Note B).",
+      "hint": "Keep the place and number.",
+      "marks": 4
+    },
+    {
+      "prompt": "Explain why a student should name the source.",
+      "answer": "The observation or idea came from another person; readers need to know where it came from.",
+      "hint": "Think about who made the observation.",
+      "marks": 3
+    },
+    {
+      "prompt": "Write one honest sentence about your AI use.",
+      "answer": "Accept: I used AI to check spelling. The wording must match what happened.",
+      "hint": "Name what the tool did.",
+      "marks": 3
+    }
+  ],
+  "slides": [
+    {
+      "title": "Today’s goal",
+      "body": [
+        "Students learn honest academic behavior before summarizing and analyzing biology texts."
+      ]
+    },
+    {
+      "title": "Words to know",
+      "body": [
+        "integrity",
+        "plagiarism",
+        "citation",
+        "source",
+        "quote",
+        "paraphrase"
+      ]
+    },
+    {
+      "title": "Read and think",
+      "body": [
+        "Classroom source: Field Note B, by Niran. “We saw six birds in the garden.” You used an AI tool to check spelling only."
+      ]
+    },
+    {
+      "title": "Task 1",
+      "body": [
+        "Write the finding in your own words and name the source.",
+        "Keep the place and number."
+      ]
+    },
+    {
+      "title": "Task 2",
+      "body": [
+        "Explain why a student should name the source.",
+        "Think about who made the observation."
+      ]
+    },
+    {
+      "title": "Task 3",
+      "body": [
+        "Write one honest sentence about your AI use.",
+        "Name what the tool did."
+      ]
+    },
+    {
+      "title": "Before you finish",
+      "body": [
+        "Share one answer with a partner.",
+        "Which English phrase helped you today?"
+      ]
+    }
+  ]
+}
