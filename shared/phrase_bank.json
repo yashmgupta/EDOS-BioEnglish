@@ -1,0 +1,22 @@
+{
+  "describing": [
+    "This image shows...",
+    "The structure is located in...",
+    "The main function is..."
+  ],
+  "results": [
+    "The results show that...",
+    "There was an increase in...",
+    "The highest value was observed at..."
+  ],
+  "discussion": [
+    "One possible explanation is...",
+    "These results suggest that...",
+    "Further research is needed."
+  ],
+  "presentation": [
+    "Today I would like to present...",
+    "As you can see from this graph...",
+    "Thank you for your attention."
+  ]
+}
